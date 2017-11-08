@@ -101,11 +101,6 @@
         {
           "realm": "Jobs",
           "group_by": "username"
-        },
-        {
-          "realm": "Jobs",
-          "group_by": "provider",
-          "disable": true
         }
       ],
       "summary_charts": [
