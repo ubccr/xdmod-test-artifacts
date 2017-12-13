@@ -365,7 +365,7 @@
     },
     "cd": {
       "display": "Center Director",
-      "type": "feature",
+      "type": "data",
       "hierarchies": [
         {
           "level": 400,
