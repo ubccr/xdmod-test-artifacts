@@ -412,6 +412,14 @@
         "person"
       ],
       "extends": "default"
+    },
+    "dev": {
+      "display": "Developer",
+      "type": "feature",
+      "dimensions": [
+        "person"
+      ],
+      "extends": "default"
     }
   }
 }
