@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "username": "test.cd.one-center",
+      "dimensionNames": {},
+      "filters": {}
+    }
+  ],
+  [
+    {
+      "username": "test.cs.one-center",
+      "dimensionNames": {},
+      "filters": {}
+    }
+  ],
+  [
+    {
+      "username": "test.pi",
+      "dimensionNames": {
+        "pi": "PI"
+      },
+      "filters": {
+        "pi": [
+          {
+            "valueName": "Flycatcher, T",
+            "valueId": "97",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": true
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "username": "test.normal-user",
+      "dimensionNames": {
+        "person": "User"
+      },
+      "filters": {
+        "person": [
+          {
+            "valueName": "Honey-buzzard",
+            "valueId": "24",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": true
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "username": "test.usr_dev",
+      "dimensionNames": {
+        "person": "User"
+      },
+      "filters": {
+        "person": [
+          {
+            "valueName": "Honey-buzzard",
+            "valueId": "24",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": true
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr",
+      "dimensionNames": {
+        "person": "User"
+      },
+      "filters": {
+        "person": [
+          {
+            "valueName": "Honey-buzzard",
+            "valueId": "24",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": false
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr_dev",
+      "dimensionNames": {
+        "person": "User"
+      },
+      "filters": {
+        "person": [
+          {
+            "valueName": "Honey-buzzard",
+            "valueId": "24",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": false
+          }
+        ]
+      }
+    }
+  ]
+]

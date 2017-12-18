@@ -1,0 +1,18 @@
+[
+  [
+    {
+      "username": "test.cd.one-center",
+      "centers": [
+        1
+      ]
+    }
+  ],
+  [
+    {
+      "username": "test.cs.one-center",
+      "centers": [
+        1
+      ]
+    }
+  ]
+]
