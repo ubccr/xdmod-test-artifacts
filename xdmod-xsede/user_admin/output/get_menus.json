@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "username": "test.cd.one-center",
+      "output": "get_menus-test.cd.one-center"
+    }
+  ],
+  [
+    {
+      "username": "test.cs.one-center",
+      "output": "get_menus-test.cs.one-center"
+    }
+  ],
+  [
+    {
+      "username": "test.pi",
+      "output": "get_menus-test.pi"
+    }
+  ],
+  [
+    {
+      "username": "test.normal-user",
+      "output": "get_menus-test.normal-user"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_dev",
+      "output": "get_menus-test.usr_dev"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr",
+      "output": "get_menus-test.usr_mgr"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr_dev",
+      "output": "get_menus-test.usr_mgr_dev"
+    }
+  ],
+  [
+    {
+      "username": "centerdirector",
+      "output": "get_menus-centerdirector"
+    }
+  ],
+  [
+    {
+      "username": "centerstaff",
+      "output": "get_menus-centerstaff"
+    }
+  ],
+  [
+    {
+      "username": "principal",
+      "output": "get_menus-principal"
+    }
+  ],
+  [
+    {
+      "username": "normaluser",
+      "output": "get_menus-normaluser"
+    }
+  ],
+  [
+    {
+      "username": "admin",
+      "output": "get_menus-admin"
+    }
+  ],
+  [
+    {
+      "username": "Public User",
+      "output": "get_menus-Public User"
+    }
+  ]
+]
