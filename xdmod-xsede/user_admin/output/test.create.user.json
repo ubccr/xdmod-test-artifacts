@@ -1,9 +1,5 @@
 {
-  "success": false,
-  "count": 0,
-  "total": 0,
-  "totalCount": 0,
-  "results": [],
-  "data": [],
-  "message": "User <b>$emailAddress</b> created successfully"
+  "success": true,
+  "message": "User <b>$username</b> created successfully",
+  "user_type": "$userType"
 }
