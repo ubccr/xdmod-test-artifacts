@@ -207,7 +207,6 @@
     {
       "username": "test.pi",
       "dimensionNames": {
-        "person": "User",
         "pi": "PI",
         "provider": "Service Provider"
       },
@@ -310,14 +309,6 @@
             "valueId": -1,
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
-          }
-        ],
-        "person": [
-          {
-            "valueName": "Ai, H",
-            "valueId": "27615",
-            "isUserSpecificFilter": true,
-            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -444,8 +435,8 @@
       "filters": {
         "person": [
           {
-            "valueName": "Paul, M",
-            "valueId": "24",
+            "valueName": "nguyen ba, t",
+            "valueId": "34393",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
@@ -555,8 +546,8 @@
       "filters": {
         "person": [
           {
-            "valueName": "Paul, M",
-            "valueId": "24",
+            "valueName": "nguyen ba, t",
+            "valueId": "34393",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
@@ -666,8 +657,8 @@
       "filters": {
         "person": [
           {
-            "valueName": "Paul, M",
-            "valueId": "24",
+            "valueName": "nguyen ba, t",
+            "valueId": "34393",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
