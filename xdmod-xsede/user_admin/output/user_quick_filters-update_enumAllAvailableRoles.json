@@ -2,30 +2,340 @@
   [
     {
       "username": "test.cd.one-center",
-      "dimensionNames": {},
-      "filters": {}
+      "dimensionNames": {
+        "provider": "Service Provider",
+        "person": "User"
+      },
+      "filters": {
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "person": [
+          {
+            "valueName": "Aagesen, L",
+            "valueId": "13832",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": false
+          }
+        ]
+      }
     }
   ],
   [
     {
       "username": "test.cs.one-center",
-      "dimensionNames": {},
-      "filters": {}
+      "dimensionNames": {
+        "provider": "Service Provider",
+        "person": "User"
+      },
+      "filters": {
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "person": [
+          {
+            "valueName": "Adelman, J",
+            "valueId": "12509",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": false
+          }
+        ]
+      }
     }
   ],
   [
     {
       "username": "test.pi",
       "dimensionNames": {
-        "pi": "PI"
+        "person": "User",
+        "pi": "PI",
+        "provider": "Service Provider"
       },
       "filters": {
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          }
+        ],
         "pi": [
           {
-            "valueName": "Flycatcher, T",
-            "valueId": "97",
+            "valueName": "Unknown",
+            "valueId": -1,
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "person": [
+          {
+            "valueName": "Ai, H",
+            "valueId": "27615",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -35,15 +345,108 @@
     {
       "username": "test.normal-user",
       "dimensionNames": {
-        "person": "User"
+        "person": "User",
+        "provider": "Service Provider"
       },
       "filters": {
         "person": [
           {
-            "valueName": "Honey-buzzard",
-            "valueId": "24",
+            "valueName": "Balick, B",
+            "valueId": "22521",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -53,15 +456,108 @@
     {
       "username": "test.usr_dev",
       "dimensionNames": {
-        "person": "User"
+        "person": "User",
+        "provider": "Service Provider"
       },
       "filters": {
         "person": [
           {
-            "valueName": "Honey-buzzard",
-            "valueId": "24",
+            "valueName": "Balick, B",
+            "valueId": "22521",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -71,15 +567,108 @@
     {
       "username": "test.usr_mgr",
       "dimensionNames": {
-        "person": "User"
+        "person": "User",
+        "provider": "Service Provider"
       },
       "filters": {
         "person": [
           {
-            "valueName": "Honey-buzzard",
-            "valueId": "24",
+            "valueName": "Balick, B",
+            "valueId": "22521",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -89,15 +678,108 @@
     {
       "username": "test.usr_mgr_dev",
       "dimensionNames": {
-        "person": "User"
+        "person": "User",
+        "provider": "Service Provider"
       },
       "filters": {
         "person": [
           {
-            "valueName": "Honey-buzzard",
-            "valueId": "24",
+            "valueName": "Balick, B",
+            "valueId": "22521",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -107,13 +789,106 @@
     {
       "username": "centerdirector",
       "dimensionNames": {
+        "provider": "Service Provider",
         "person": "User"
       },
       "filters": {
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": true
+          }
+        ],
         "person": [
           {
-            "valueName": "Bunting, R",
-            "valueId": "42",
+            "valueName": "Aagesen, L",
+            "valueId": "13832",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": false
           }
@@ -125,13 +900,106 @@
     {
       "username": "centerstaff",
       "dimensionNames": {
+        "provider": "Service Provider",
         "person": "User"
       },
       "filters": {
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": true,
+            "isMostPrivilegedRoleFilter": true
+          }
+        ],
         "person": [
           {
-            "valueName": "Dove, T",
-            "valueId": "57",
+            "valueName": "Adelman, J",
+            "valueId": "12509",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": false
           }
@@ -143,22 +1011,115 @@
     {
       "username": "principal",
       "dimensionNames": {
+        "person": "User",
         "pi": "PI",
-        "person": "User"
+        "provider": "Service Provider"
       },
       "filters": {
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          }
+        ],
         "pi": [
           {
-            "valueName": "Tern, C",
-            "valueId": "74",
+            "valueName": "Unknown",
+            "valueId": -1,
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
         ],
         "person": [
           {
-            "valueName": "Tern, C",
-            "valueId": "74",
+            "valueName": "Ai, H",
+            "valueId": "27615",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": false
           }
@@ -170,15 +1131,108 @@
     {
       "username": "normaluser",
       "dimensionNames": {
-        "person": "User"
+        "person": "User",
+        "provider": "Service Provider"
       },
       "filters": {
         "person": [
           {
-            "valueName": "Whimbrel",
-            "valueId": "60",
+            "valueName": "Balick, B",
+            "valueId": "22521",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
+          }
+        ],
+        "provider": [
+          {
+            "valueName": "ANL",
+            "valueId": "1789",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Caltech",
+            "valueId": "68",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "CCT-LSU",
+            "valueId": "2734",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "IU",
+            "valueId": "561",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "LONI-LSU",
+            "valueId": "2101",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCAR",
+            "valueId": "653",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NCSA",
+            "valueId": "844",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "NICS",
+            "valueId": "453",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "ORNL",
+            "valueId": "646",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "OSG",
+            "valueId": "2440",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "PSC",
+            "valueId": "848",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Purdue",
+            "valueId": "1869",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "SDSC",
+            "valueId": "856",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "Stanford",
+            "valueId": "97",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
+          },
+          {
+            "valueName": "TACC",
+            "valueId": "476",
+            "isUserSpecificFilter": false,
+            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
