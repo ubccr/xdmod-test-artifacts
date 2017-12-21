@@ -1,12 +1,6 @@
 [
   [
     {
-      "username": "admin",
-      "output": "get_dw_descripters-admin"
-    }
-  ],
-  [
-    {
       "username": "centerdirector",
       "output": "get_dw_descripters-centerdirector"
     }
