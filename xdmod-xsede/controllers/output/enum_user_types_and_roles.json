@@ -21,17 +21,16 @@
       "color": "#808000"
     },
     {
-      "id": "5",
-      "type": "Federated",
-      "color": "#FFCC00"
-    },
-    {
       "id": 700,
       "type": "XSEDE",
       "color": "#b914f6"
     }
   ],
   "user_roles": [
+    {
+      "description": "Campus Champion",
+      "role_id": "6"
+    },
     {
       "description": "Center Director",
       "role_id": "1"
@@ -45,12 +44,20 @@
       "role_id": "7"
     },
     {
+      "description": "Financial Officer",
+      "role_id": "8"
+    },
+    {
       "description": "Manager",
       "role_id": "0"
     },
     {
       "description": "Principal Investigator",
       "role_id": "4"
+    },
+    {
+      "description": "Program Officer",
+      "role_id": "2"
     },
     {
       "description": "User",
