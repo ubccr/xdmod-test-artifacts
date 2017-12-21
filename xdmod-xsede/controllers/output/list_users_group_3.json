@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "status": "success",
+  "users": [
+    {
+      "id": "118",
+      "username": "tacc.cd",
+      "first_name": "TACC",
+      "last_name": "Center Director",
+      "account_is_active": "1",
+      "last_logged_in": 1513692387000
+    },
+    {
+      "id": "367",
+      "username": "jobviewer",
+      "first_name": "Job",
+      "last_name": "Viewer",
+      "account_is_active": "1",
+      "last_logged_in": 1513114041000
+    },
+    {
+      "id": "1168",
+      "username": "bsmith",
+      "first_name": "Bob",
+      "last_name": "SMith",
+      "account_is_active": "1",
+      "last_logged_in": 1513113197000
+    },
+    {
+      "id": "110",
+      "username": "programofficer",
+      "first_name": "XDMoD",
+      "last_name": "User",
+      "account_is_active": "1",
+      "last_logged_in": 1506998765000
+    },
+    {
+      "id": "355",
+      "username": "boboto",
+      "first_name": "Bob",
+      "last_name": "O'Toole",
+      "account_is_active": "1",
+      "last_logged_in": 1492629150000
+    },
+    {
+      "id": "193",
+      "username": "champion",
+      "first_name": "Campus",
+      "last_name": "Champion",
+      "account_is_active": "1",
+      "last_logged_in": 1492018409000
+    },
+    {
+      "id": "312",
+      "username": "xdmoddemo",
+      "first_name": "XDMoD",
+      "last_name": "User",
+      "account_is_active": "1",
+      "last_logged_in": 1492018126000
+    },
+    {
+      "id": "137",
+      "username": "sdsc.cd",
+      "first_name": "SDSC",
+      "last_name": "Center Director",
+      "account_is_active": "1",
+      "last_logged_in": 1456932603000
+    },
+    {
+      "id": "350",
+      "username": "conorhixon",
+      "first_name": "Conor",
+      "last_name": "Hixon",
+      "account_is_active": "1",
+      "last_logged_in": 1450807024000
+    },
+    {
+      "id": "358",
+      "username": "scottoto",
+      "first_name": "Scott",
+      "last_name": "O'Toole",
+      "account_is_active": "1",
+      "last_logged_in": 1450713752000
+    },
+    {
+      "id": "372",
+      "username": "testusr",
+      "first_name": "Test",
+      "last_name": "User",
+      "account_is_active": "1",
+      "last_logged_in": 1450380640000
+    },
+    {
+      "id": "354",
+      "username": "bobnew",
+      "first_name": "Bob",
+      "last_name": "Newhart",
+      "account_is_active": "1",
+      "last_logged_in": 1436461394000
+    },
+    {
+      "id": "294",
+      "username": "xdmod",
+      "first_name": "XDMoD",
+      "last_name": "User",
+      "account_is_active": "1",
+      "last_logged_in": 1436202926000
+    },
+    {
+      "id": "204",
+      "username": "incau",
+      "first_name": "Inca",
+      "last_name": "Inca",
+      "account_is_active": "1",
+      "last_logged_in": 1424185158000
+    },
+    {
+      "id": "119",
+      "username": "nics.cd",
+      "first_name": "NICS",
+      "last_name": "Center Director",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "138",
+      "username": "ncsa.cd",
+      "first_name": "NCSA",
+      "last_name": "Center Director",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "117",
+      "username": "ncar.cd",
+      "first_name": "NCAR",
+      "last_name": "Center Director",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "1505",
+      "username": "usmith@test.com",
+      "first_name": "Ulfgar",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    }
+  ]
+}

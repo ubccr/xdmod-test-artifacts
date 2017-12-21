@@ -1,0 +1,69 @@
+{
+  "success": true,
+  "status": "success",
+  "acls": [
+    {
+      "acl": "Campus Champion",
+      "acl_id": "cc",
+      "include": false,
+      "primary": false,
+      "requires_center": false
+    },
+    {
+      "acl": "Center Director",
+      "acl_id": "cd",
+      "include": false,
+      "primary": false,
+      "requires_center": true
+    },
+    {
+      "acl": "Center Staff",
+      "acl_id": "cs",
+      "include": false,
+      "primary": false,
+      "requires_center": true
+    },
+    {
+      "acl": "Custom Query Tab",
+      "acl_id": "acl.custom-query-tab",
+      "include": false,
+      "primary": false,
+      "requires_center": false
+    },
+    {
+      "acl": "Developer",
+      "acl_id": "dev",
+      "include": false,
+      "primary": false,
+      "requires_center": false
+    },
+    {
+      "acl": "Manager",
+      "acl_id": "mgr",
+      "include": false,
+      "primary": false,
+      "requires_center": false
+    },
+    {
+      "acl": "Principal Investigator",
+      "acl_id": "pi",
+      "include": false,
+      "primary": false,
+      "requires_center": false
+    },
+    {
+      "acl": "Program Officer",
+      "acl_id": "po",
+      "include": false,
+      "primary": false,
+      "requires_center": false
+    },
+    {
+      "acl": "User",
+      "acl_id": "usr",
+      "include": false,
+      "primary": false,
+      "requires_center": false
+    }
+  ]
+}

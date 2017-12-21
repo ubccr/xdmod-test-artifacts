@@ -1,0 +1,158 @@
+{
+  "success": true,
+  "status": "success",
+  "users": [
+    {
+      "id": "464",
+      "username": "normaluser",
+      "first_name": "Normal",
+      "last_name": "Whimbrel",
+      "account_is_active": "1",
+      "last_logged_in": 1513884575000
+    },
+    {
+      "id": "463",
+      "username": "principal",
+      "first_name": "Caspian",
+      "last_name": "Tern",
+      "account_is_active": "1",
+      "last_logged_in": 1513884575000
+    },
+    {
+      "id": "462",
+      "username": "centerstaff",
+      "first_name": "Turtle",
+      "last_name": "Dove",
+      "account_is_active": "1",
+      "last_logged_in": 1513884574000
+    },
+    {
+      "id": "111",
+      "username": "centerdirector",
+      "first_name": "cd",
+      "last_name": "cd",
+      "account_is_active": "1",
+      "last_logged_in": 1513884574000
+    },
+    {
+      "id": "1375",
+      "username": "tacc.cs",
+      "first_name": "Center",
+      "last_name": "Staff",
+      "account_is_active": "1",
+      "last_logged_in": 1513872216000
+    },
+    {
+      "id": "1182",
+      "username": "tsmith",
+      "first_name": "Ted",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 1513531567000
+    },
+    {
+      "id": "339",
+      "username": "z3gallo@yahoo.com",
+      "first_name": "Steve",
+      "last_name": "Gallo",
+      "account_is_active": "1",
+      "last_logged_in": 1509641937000
+    },
+    {
+      "id": "459",
+      "username": "espen",
+      "first_name": "Ermintrude",
+      "last_name": "Spencer-Williams II",
+      "account_is_active": "1",
+      "last_logged_in": 1509639003000
+    },
+    {
+      "id": "456",
+      "username": "tarfar",
+      "first_name": "Tarquin",
+      "last_name": "Farquar",
+      "account_is_active": "1",
+      "last_logged_in": 1509631398000
+    },
+    {
+      "id": "447",
+      "username": "wilkinsn",
+      "first_name": "Nancy",
+      "last_name": "Wilkins-Diehr",
+      "account_is_active": "1",
+      "last_logged_in": 1505153471000
+    },
+    {
+      "id": "377",
+      "username": "jtpalmer-test",
+      "first_name": "Jeffrey",
+      "last_name": "Palmer",
+      "account_is_active": "1",
+      "last_logged_in": 1477078303000
+    },
+    {
+      "id": "374",
+      "username": "nikolaystest",
+      "first_name": "Nikolay",
+      "last_name": "Test",
+      "account_is_active": "1",
+      "last_logged_in": 1458142954000
+    },
+    {
+      "id": "338",
+      "username": "amintest",
+      "first_name": "Amin",
+      "last_name": "Test",
+      "account_is_active": "0",
+      "last_logged_in": 1446483296000
+    },
+    {
+      "id": "1177",
+      "username": "esmith",
+      "first_name": "Edward",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "1178",
+      "username": "fsmith",
+      "first_name": "Frank",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "1179",
+      "username": "gsmith",
+      "first_name": "Greg",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "1180",
+      "username": "ismith",
+      "first_name": "Issac",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "1181",
+      "username": "ssmith",
+      "first_name": "Sumo",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    },
+    {
+      "id": "460",
+      "username": "dsmith",
+      "first_name": "Dan",
+      "last_name": "Smith",
+      "account_is_active": "1",
+      "last_logged_in": 0
+    }
+  ]
+}

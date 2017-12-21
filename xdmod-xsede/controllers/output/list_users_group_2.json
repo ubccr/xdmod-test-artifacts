@@ -1,0 +1,142 @@
+{
+  "success": true,
+  "status": "success",
+  "users": [
+    {
+      "id": "352",
+      "username": "ryanrath@buffalo.edu",
+      "first_name": "Ryan",
+      "last_name": "Rathsam",
+      "account_is_active": "1",
+      "last_logged_in": 1513890457000
+    },
+    {
+      "id": "28",
+      "username": "smgallo",
+      "first_name": "Steve",
+      "last_name": "Gallo",
+      "account_is_active": "1",
+      "last_logged_in": 1513885982000
+    },
+    {
+      "id": "332",
+      "username": "jpwhite4",
+      "first_name": "Joseph",
+      "last_name": "White",
+      "account_is_active": "1",
+      "last_logged_in": 1513871560000
+    },
+    {
+      "id": "314",
+      "username": "nikolays",
+      "first_name": "Nikolay",
+      "last_name": "Simakov",
+      "account_is_active": "1",
+      "last_logged_in": 1513195435000
+    },
+    {
+      "id": "341",
+      "username": "jsperhac",
+      "first_name": "J.M.",
+      "last_name": "Sperhac",
+      "account_is_active": "1",
+      "last_logged_in": 1512415126000
+    },
+    {
+      "id": "369",
+      "username": "bpless@buffalo.edu",
+      "first_name": "Ben",
+      "last_name": "Plessinger",
+      "account_is_active": "1",
+      "last_logged_in": 1511879691000
+    },
+    {
+      "id": "313",
+      "username": "jtpalmer",
+      "first_name": "Jeff",
+      "last_name": "Palmer",
+      "account_is_active": "1",
+      "last_logged_in": 1509989392000
+    },
+    {
+      "id": "342",
+      "username": "tyearke",
+      "first_name": "Test999",
+      "last_name": "Yearke",
+      "account_is_active": "1",
+      "last_logged_in": 1509975546000
+    },
+    {
+      "id": "94",
+      "username": "jonesm",
+      "first_name": "Matt",
+      "last_name": "Jones",
+      "account_is_active": "1",
+      "last_logged_in": 1509383169000
+    },
+    {
+      "id": "37",
+      "username": "rldeleon",
+      "first_name": "Bob",
+      "last_name": "Deleon",
+      "account_is_active": "1",
+      "last_logged_in": 1509124445000
+    },
+    {
+      "id": "34",
+      "username": "furlani",
+      "first_name": "Tom",
+      "last_name": "Furlani",
+      "account_is_active": "1",
+      "last_logged_in": 1508666569000
+    },
+    {
+      "id": "449",
+      "username": "minnus@buffalo.edu",
+      "first_name": "Martins",
+      "last_name": "Innus",
+      "account_is_active": "1",
+      "last_logged_in": 1506973592000
+    },
+    {
+      "id": "444",
+      "username": "agervase",
+      "first_name": "Abigail",
+      "last_name": "Gervase",
+      "account_is_active": "1",
+      "last_logged_in": 1497463540000
+    },
+    {
+      "id": "359",
+      "username": "davidlav@buffalo.edu",
+      "first_name": "David",
+      "last_name": "LaVergne",
+      "account_is_active": "1",
+      "last_logged_in": 1467552848000
+    },
+    {
+      "id": "365",
+      "username": "ssu2@utk.edu",
+      "first_name": "Shiquan",
+      "last_name": "Su",
+      "account_is_active": "1",
+      "last_logged_in": 1464377553000
+    },
+    {
+      "id": "351",
+      "username": "cdc@buffalo.edu",
+      "first_name": "Cynthia",
+      "last_name": "Cornelius",
+      "account_is_active": "1",
+      "last_logged_in": 1409345063000
+    },
+    {
+      "id": "30",
+      "username": "aming",
+      "first_name": "Amin",
+      "last_name": "Ghadersohi",
+      "account_is_active": "0",
+      "last_logged_in": 1404593717000
+    }
+  ]
+}
