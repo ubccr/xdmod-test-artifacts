@@ -1119,18 +1119,6 @@
       "last_logged_in": "1513884575.548"
     },
     {
-      "formal_name": "Bob SMith",
-      "id": "1168",
-      "username": "bsmith",
-      "first_name": "Bob",
-      "last_name": "SMith",
-      "email_address": "bsmith@test.com",
-      "user_type": "3",
-      "account_is_active": "1",
-      "role_type": "User, Center Director",
-      "last_logged_in": "1513113197.3596"
-    },
-    {
       "formal_name": "Edward Smith",
       "id": "1177",
       "username": "esmith",
