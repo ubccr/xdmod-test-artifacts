@@ -3,8 +3,7 @@
     {
       "username": "test.cd.one-center",
       "dimensionNames": {
-        "provider": "Service Provider",
-        "person": "User"
+        "provider": "Service Provider"
       },
       "filters": {
         "provider": [
@@ -97,14 +96,6 @@
             "valueId": "476",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
-          }
-        ],
-        "person": [
-          {
-            "valueName": "Aagesen, L",
-            "valueId": "13832",
-            "isUserSpecificFilter": true,
-            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -114,8 +105,7 @@
     {
       "username": "test.cs.one-center",
       "dimensionNames": {
-        "provider": "Service Provider",
-        "person": "User"
+        "provider": "Service Provider"
       },
       "filters": {
         "provider": [
@@ -208,14 +198,6 @@
             "valueId": "476",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
-          }
-        ],
-        "person": [
-          {
-            "valueName": "Adelman, J",
-            "valueId": "12509",
-            "isUserSpecificFilter": true,
-            "isMostPrivilegedRoleFilter": false
           }
         ]
       }
@@ -351,8 +333,8 @@
       "filters": {
         "person": [
           {
-            "valueName": "Balick, B",
-            "valueId": "22521",
+            "valueName": "Paul, M",
+            "valueId": "24",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
@@ -462,8 +444,8 @@
       "filters": {
         "person": [
           {
-            "valueName": "Balick, B",
-            "valueId": "22521",
+            "valueName": "Paul, M",
+            "valueId": "24",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
@@ -573,8 +555,8 @@
       "filters": {
         "person": [
           {
-            "valueName": "Balick, B",
-            "valueId": "22521",
+            "valueName": "Paul, M",
+            "valueId": "24",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
@@ -684,8 +666,8 @@
       "filters": {
         "person": [
           {
-            "valueName": "Balick, B",
-            "valueId": "22521",
+            "valueName": "Paul, M",
+            "valueId": "24",
             "isUserSpecificFilter": true,
             "isMostPrivilegedRoleFilter": true
           }
