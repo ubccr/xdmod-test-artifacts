@@ -1,0 +1,723 @@
+{
+  "totalCount": 1,
+  "data": [
+    {
+      "realms": {
+        "Accounts": {
+          "metrics": {
+            "unique_account_count": {
+              "text": "Number of Unique Accounts: Created (Number of Accounts)",
+              "info": "The total number of unique users accounts created (on the specified resource) during this time period.",
+              "std_err": false
+            },
+            "unique_account_with_jobs_count": {
+              "text": "Number of Unique Accounts: Created w\/Jobs (Number of Accounts)",
+              "info": "The total number of unique user accounts created during this time period that have run at least 1 job (on the specified resource) at any time since account creation.",
+              "std_err": false
+            }
+          },
+          "dimensions": {
+            "none": {
+              "text": "None",
+              "info": "Summarizes all of the accounts data."
+            },
+            "resource": {
+              "text": "Resource",
+              "info": "A resource is a remote computer that can run jobs."
+            },
+            "resource_type": {
+              "text": "Resource Type",
+              "info": "A categorization of resources into by their general capabilities."
+            }
+          },
+          "text": "Accounts",
+          "category": "Accounts"
+        },
+        "Allocations": {
+          "metrics": {
+            "rate_of_usage": {
+              "text": "Allocation Usage Rate (XD SU\/Hour)",
+              "info": "The rate of allocation usage in XD SUs per hour.",
+              "std_err": false
+            },
+            "allocated_raw_su": {
+              "text": "CPU Core Hours: Allocated",
+              "info": "The total allocated amount in CPU core hours on the resource the allocation was made on.",
+              "std_err": false
+            },
+            "allocated_nu": {
+              "text": "NUs: Allocated",
+              "info": "The total allocated amount in NUs.",
+              "std_err": false
+            },
+            "active_allocation_count": {
+              "text": "Number of Allocations: Active",
+              "info": "The number of allocations that were valid.",
+              "std_err": false
+            },
+            "allocated_su": {
+              "text": "XD SUs: Allocated",
+              "info": "The total allocated amount in XD SUs.",
+              "std_err": false
+            },
+            "used_su": {
+              "text": "XD SUs: Used",
+              "info": "The total amount of XD SUs used by jobs.<br\/>\n\t\t<i>XD SU: <\/i>1 XSEDE SU is defined as one CPU-hour on a Phase-1 DTF cluster.<br\/>\t\n\t\t<i>SU - Service Units: <\/i>Computational resources on the XSEDE are allocated and charged in service units (SUs). SUs are defined locally on each system, with conversion factors among systems based on HPL benchmark results (see the XSEDE SU Conversion Calculator: https:\/\/www.xsede.org\/su-converter).<br\/>\n\n\t\tCurrent TeraGrid supercomputers have complex multi-core and memory hierarchies. Each resource has a specific configuration that determines the number (N) of cores that can be dedicated to a job without slowing the code (and other user and system codes). Each resource defines for its system the minimum number of SUs charged for a job running in the default batch queue, calculated as wallclock runtime multiplied by N. Minimum charges may apply.<br\/>\n\n\t\tNote: The actual charge will depend on the specific requirements of the job (e.g., the mapping of the cores across the machine, or the priority you wish to obtain). Consult each system's user guide for details. If you have questions, contact  help@teragrid.org .<br\/>\n\t\t\n\t\tNote 2: The SUs show here have been normalized against the XSEDE Roaming service. Therefore they are comparable across resources.",
+              "std_err": false
+            }
+          },
+          "dimensions": {
+            "none": {
+              "text": "None",
+              "info": "Summarizes all allocations on resources."
+            },
+            "allocation": {
+              "text": "Allocation",
+              "info": "A funded project that is allowed to run jobs on resources."
+            },
+            "allocation_type": {
+              "text": "Allocation Type",
+              "info": "The type of funded projects allowed to run jobs on resources."
+            },
+            "board_type": {
+              "text": "Board Type",
+              "info": "A board type pertaining to the POPS meeting."
+            },
+            "fieldofscience": {
+              "text": "Field of Science",
+              "info": "The field of science indicated on the allocation request."
+            },
+            "nsfdirectorate": {
+              "text": "NSF Directorate",
+              "info": "The NSF directorate of the field of science indiciated on the allocation request."
+            },
+            "parentscience": {
+              "text": "Parent Science",
+              "info": "The parent of the field of science indiciated on the allocation request."
+            },
+            "pi": {
+              "text": "PI",
+              "info": "The principal investigator of a project has a valid allocation, which can be used by him\/her or the members of the project to run jobs."
+            },
+            "resource": {
+              "text": "Resource",
+              "info": "A resource is a remote computer that can run jobs."
+            },
+            "resource_type": {
+              "text": "Resource Type",
+              "info": "A categorization of resources into by their general capabilities."
+            }
+          },
+          "text": "Allocations",
+          "category": "Allocations"
+        },
+        "Jobs": {
+          "metrics": {
+            "rate_of_usage": {
+              "text": "Allocation Usage Rate (XD SU\/Hour)",
+              "info": "The rate of XSEDE allocation usage in XD SUs per hour.",
+              "std_err": false
+            },
+            "avg_cpu_hours": {
+              "text": "CPU Hours: Per Job",
+              "info": "The average CPU hours (number of CPU cores x wall time hours) per XSEDE job.<br\/>For each job, the CPU usage is aggregated. For example, if a job used 1000 CPUs for one minute, it would be aggregated as 1000 CPU minutes or 16.67 CPU hours.",
+              "std_err": true
+            },
+            "total_cpu_hours": {
+              "text": "CPU Hours: Total",
+              "info": "The total CPU hours (number of CPU cores x wall time hours) used by XSEDE jobs.<br\/>For each job, the CPU usage is aggregated. For example, if a job used 1000 CPUs for one minute, it would be aggregated as 1000 CPU minutes or 16.67 CPU hours.",
+              "std_err": false
+            },
+            "max_processors": {
+              "text": "Job Size: Max (Core Count)",
+              "info": "The maximum size XSEDE job in number of cores.<br\/>\n            <i>Job Size: <\/i>The total number of processor cores used by a (parallel) job.",
+              "std_err": false
+            },
+            "min_processors": {
+              "text": "Job Size: Min (Core Count)",
+              "info": "The minimum size XSEDE job in number of cores.<br\/>\n            <i>Job Size: <\/i>The total number of processor cores used by a (parallel) job.",
+              "std_err": false
+            },
+            "normalized_avg_processors": {
+              "text": "Job Size: Normalized (% of Total Cores)",
+              "info": "The percentage average size XSEDE job over total machine cores.<br>\n            <i>Normalized Job Size: <\/i>The percentage total number of processor cores used by a (parallel) job over the total number of cores on the machine.",
+              "std_err": false
+            },
+            "avg_processors": {
+              "text": "Job Size: Per Job (Core Count)",
+              "info": "The average job size per  XSEDE job.<br>\n        <i>Job Size: <\/i>The number of processor cores used by a (parallel) job.",
+              "std_err": true
+            },
+            "avg_job_size_weighted_by_xd_su": {
+              "text": "Job Size: Weighted By XD SUs (Core Count)",
+              "info": "The average XSEDE job size weighted by charge in XD SUs. Defined as <br>\n\t\t<i>Average Job Size Weighted By XD SUs: <\/i> sum(i = 0 to n){job i core count*job i charge in xd sus}\/sum(i =  0 to n){job i charge in xd sus}",
+              "std_err": false
+            },
+            "avg_nu": {
+              "text": "NUs Charged: Per Job",
+              "info": "The average amount of NUs charged per XSEDE job.<br\/><i>NU - Normalized Units: <\/i>Roaming allocations are awarded in XSEDE Service Units (SUs). 1 XSEDE SU is defined as one CPU-hour on a Phase-1 DTF cluster. For usage on a resource that is charged to a Roaming allocation, a normalization factor is applied. The normalization factor is based on the method historically used to calculate 'Normalized Units' (Cray X-MP-equivalent SUs), which derives from a resource's performance on the HPL benchmark.<br\/>Specifically, 1 Phase-1 DTF SU = 21.576 NUs, and the XD SU conversion factor for a resource is calculated by taking its NU conversion factor and dividing it by 21.576. The standard formula for calculating a resource's NU conversion factor is: (Rmax * 1000 \/ 191) \/ P where Rmax is the resource's Rmax result on the HPL benchmark in Gflops and P is the number of processors used in the benchmark. In the absence of an HPL benchmark run, a conversion factor can be agreed upon, based on that of an architecturally similar platform and scaled according to processor performance differences.<br\/>Conversion to Roaming SUs is handled by the XSEDE central accounting system, and RPs are only required to report usage in local SUs for all allocations.<br\/>Defining an SU charge for specialized compute resources (such as visualization hardware) or non-compute resources (such as storage) is possible, but there is no XSEDE-wide policy for doing so.",
+              "std_err": true
+            },
+            "total_nu": {
+              "text": "NUs Charged: Total",
+              "info": "The total amount of NUs charged by XSEDEjobs.<br\/>\n\t\t<i>NU - Normalized Units: <\/i>Roaming allocations are awarded in XSEDE Service Units (SUs). 1 XSEDE SU is defined as one CPU-hour on a Phase-1 DTF cluster. For usage on a resource that is charged to a Roaming allocation, a normalization factor is applied. The normalization factor is based on the method historically used to calculate 'Normalized Units' (Cray X-MP-equivalent SUs), which derives from a resource's performance on the HPL benchmark.<br\/>Specifically, 1 Phase-1 DTF SU = 21.576 NUs, and the XD SU conversion factor for a resource is calculated by taking its NU conversion factor and dividing it by 21.576. The standard formula for calculating a resource's NU conversion factor is: (Rmax * 1000 \/ 191) \/ P where Rmax is the resource's Rmax result on the HPL benchmark in Gflops and P is the number of processors used in the benchmark. In the absence of an HPL benchmark run, a conversion factor can be agreed upon, based on that of an architecturally similar platform and scaled according to processor performance differences.<br\/>Conversion to Roaming SUs is handled by the XSEDE central accounting system, and RPs are only required to report usage in local SUs for all allocations.<br\/>Defining an SU charge for specialized compute resources (such as visualization hardware) or non-compute resources (such as storage) is possible, but there is no XSEDE-wide policy for doing so.",
+              "std_err": false
+            },
+            "avg_node_hours": {
+              "text": "Node Hours: Per Job",
+              "info": "The average node hours (number of nodes x wall time hours) per XSEDE job.",
+              "std_err": true
+            },
+            "total_node_hours": {
+              "text": "Node Hours: Total",
+              "info": "The total node hours (number of nodes x wall time hours) used by XSEDE jobs.",
+              "std_err": false
+            },
+            "active_allocation_count": {
+              "text": "Number of Allocations: Active",
+              "info": "The total number of funded projects that used XSEDE resources.",
+              "std_err": false
+            },
+            "active_institution_count": {
+              "text": "Number of Institutions: Active",
+              "info": "The total number of institutions that used XSEDE resources.",
+              "std_err": false
+            },
+            "job_count": {
+              "text": "Number of Jobs Ended",
+              "info": "The total number of XSEDE jobs that ended within the selected duration.<br\/>\n            <i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "running_job_count": {
+              "text": "Number of Jobs Running",
+              "info": "The total number of running XSEDE jobs.<br\/>\n        <i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "started_job_count": {
+              "text": "Number of Jobs Started",
+              "info": "The total number of XSEDE jobs that started executing within the selected duration.<br\/>\n\t\t<i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "submitted_job_count": {
+              "text": "Number of Jobs Submitted",
+              "info": "Number of Jobs Submitted",
+              "std_err": false
+            },
+            "gateway_job_count": {
+              "text": "Number of Jobs via Gateway",
+              "info": "The total number of XSEDE jobs submitted through gateways (e.g., via a community user account) that ended within the selected duration.<br\/>\n\t\t<i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "active_pi_count": {
+              "text": "Number of PIs: Active",
+              "info": "The total number of PIs that used XSEDE resources.",
+              "std_err": false
+            },
+            "active_resource_count": {
+              "text": "Number of Resources: Active",
+              "info": "The total number of active XSEDE resources.",
+              "std_err": false
+            },
+            "active_person_count": {
+              "text": "Number of Users: Active",
+              "info": "The total number of users that used XSEDE resources.",
+              "std_err": false
+            },
+            "expansion_factor": {
+              "text": "User Expansion Factor",
+              "info": "Gauging XSEDE job-turnaround time, it measures the ratio of wait time and the total time from submission to end of execution.<br\/>\n\t\t<i>User Expansion Factor = ((wait duration + wall duration) \/ wall duration). <\/i>",
+              "std_err": false
+            },
+            "avg_waitduration_hours": {
+              "text": "Wait Hours: Per Job",
+              "info": "The average time, in hours, a XSEDE job waits before execution on the designated resource.<br\/>\n\t\t<i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": true
+            },
+            "total_waitduration_hours": {
+              "text": "Wait Hours: Total",
+              "info": "The total time, in hours, XSEDE jobs waited before execution on their designated resource.<br\/>\n\t\t<i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": false
+            },
+            "avg_wallduration_hours": {
+              "text": "Wall Hours: Per Job",
+              "info": "The average time, in hours, a job takes to execute.<br\/>\n            In timeseries view mode, the statistic shows the average wall time per job per\n            time period. In aggregate view mode, this statistic is approximate. The\n            approximation is accurate when the average job walltime is small compared to\n            the aggregation period.<br \/>\n            <i>Wall Time:<\/i> Wall time is defined as the linear time between start and end time of execution for a particular job.",
+              "std_err": true
+            },
+            "total_wallduration_hours": {
+              "text": "Wall Hours: Total",
+              "info": "The total time, in hours, XSEDE jobs took to execute.<br\/>\n\t\t<i>Wall Time:<\/i> Wall time is defined as the linear time between start and end time of execution for a particular job.",
+              "std_err": false
+            },
+            "avg_su": {
+              "text": "XD SUs Charged: Per Job",
+              "info": "The average amount of XD SUs charged per XSEDE job.<br\/>\n        <i>XD SU: <\/i>1 XSEDE SU is defined as one CPU-hour on a Phase-1 DTF cluster.<br\/>\n        <i>SU - Service Units: <\/i>Computational resources on the XSEDE are allocated and charged in service units (SUs). SUs are defined locally on each system, with conversion factors among systems based on HPL benchmark results (see the XSEDE SU Conversion Calculator: https:\/\/www.xsede.org\/su-converter).<br\/>\n\n        Current TeraGrid supercomputers have complex multi-core and memory hierarchies. Each resource has a specific configuration that determines the number (N) of cores that can be dedicated to a job without slowing the code (and other user and system codes). Each resource defines for its system the minimum number of SUs charged for a job running in the default batch queue, calculated as wallclock runtime multiplied by N. Minimum charges may apply.<br\/>\n\n        Note: The actual charge will depend on the specific requirements of the job (e.g., the mapping of the cores across the machine, or the priority you wish to obtain). Consult each system's user guide for details. If you have questions, contact  help@teragrid.org .<br\/>\n\n        Note 2: The SUs show here have been normalized against the XSEDE Roaming service. Therefore they are comparable across resources.",
+              "std_err": true
+            },
+            "total_su": {
+              "text": "XD SUs Charged: Total",
+              "info": "The total amount of XD SUs charged by XSEDE jobs.<br\/>\n        <i>XD SU: <\/i>1 XSEDE SU is defined as one CPU-hour on a Phase-1 DTF cluster.<br\/>\n        <i>SU - Service Units: <\/i>Computational resources on the XSEDE are allocated and charged in service units (SUs). SUs are defined locally on each system, with conversion factors among systems based on HPL benchmark results (see the XSEDE SU Conversion Calculator: https:\/\/www.xsede.org\/su-converter).<br\/>\n\n        Current TeraGrid supercomputers have complex multi-core and memory hierarchies. Each resource has a specific configuration that determines the number (N) of cores that can be dedicated to a job without slowing the code (and other user and system codes). Each resource defines for its system the minimum number of SUs charged for a job running in the default batch queue, calculated as wallclock runtime multiplied by N. Minimum charges may apply.<br\/>\n\n        Note: The actual charge will depend on the specific requirements of the job (e.g., the mapping of the cores across the machine, or the priority you wish to obtain). Consult each system's user guide for details. If you have questions, contact  help@teragrid.org .<br\/>\n\n        Note 2: The SUs show here have been normalized against the XSEDE Roaming service. Therefore they are comparable across resources.",
+              "std_err": false
+            },
+            "utilization": {
+              "text": "XSEDE Utilization (%)",
+              "info": "The percentage of the XSEDE obligation of a resource that has been utilized by XSEDE jobs.<br\/><i>XSEDE Utilization:<\/i> The ratio of the total CPU hours consumed by XSEDE jobs over a given time period divided by the total CPU hours that the system is contractually required to provide to XSEDE during that period. It does not include non-XSEDE jobs.<br\/>It is worth noting that this value is a rough estimate in certain cases where the resource providers don't provide accurate records of their system specifications, over time.",
+              "std_err": false
+            }
+          },
+          "dimensions": {
+            "none": {
+              "text": "None",
+              "info": "Summarizes jobs reported to the XSEDE central database (excludes non-XSEDE usage of the resource)."
+            },
+            "allocation": {
+              "text": "Allocation",
+              "info": "A funded project that is allowed to run jobs on resources."
+            },
+            "fieldofscience": {
+              "text": "Field of Science",
+              "info": "The field of science indicated on the allocation request pertaining to the running jobs."
+            },
+            "gateway": {
+              "text": "Gateway",
+              "info": "A science gateway is a portal set up to aid submiting jobs to resources."
+            },
+            "grant_type": {
+              "text": "Grant Type",
+              "info": "A categorization of the projects\/allocations."
+            },
+            "jobsize": {
+              "text": "Job Size",
+              "info": "A categorization of jobs into discrete groups based on the number of cores used by each job."
+            },
+            "jobwalltime": {
+              "text": "Job Wall Time",
+              "info": "A categorization of jobs into discrete groups based on the total linear time each job took to execute."
+            },
+            "nodecount": {
+              "text": "Node Count",
+              "info": "A categorization of jobs into discrete groups based on node count."
+            },
+            "nsfdirectorate": {
+              "text": "NSF Directorate",
+              "info": "The NSF directorate of the field of science indiciated on the allocation request pertaining to the running jobs."
+            },
+            "parentscience": {
+              "text": "Parent Science",
+              "info": "The parent of the field of science indiciated on the allocation request pertaining to the running jobs."
+            },
+            "pi": {
+              "text": "PI",
+              "info": "The principal investigator of a project has a valid allocation, which can be used by him\/her or the members of the project to run jobs on."
+            },
+            "pi_institution": {
+              "text": "PI Institution",
+              "info": "Organizations that have PIs with allocations."
+            },
+            "queue": {
+              "text": "Queue",
+              "info": "Queue pertains to the low level job queues on each resource."
+            },
+            "resource": {
+              "text": "Resource",
+              "info": "A resource is a remote computer that can run jobs."
+            },
+            "resource_type": {
+              "text": "Resource Type",
+              "info": "A categorization of resources into by their general capabilities."
+            },
+            "provider": {
+              "text": "Service Provider",
+              "info": "A service provider is an institution that hosts resources."
+            },
+            "username": {
+              "text": "System Username",
+              "info": "The specific system username of the users who ran jobs."
+            },
+            "person": {
+              "text": "User",
+              "info": "A person who is on a PIs allocation, hence able run jobs on resources."
+            },
+            "institution": {
+              "text": "User Institution",
+              "info": "Organizations that have users with allocations."
+            },
+            "nsfstatus": {
+              "text": "User NSF Status",
+              "info": "Categorization of the users who ran jobs."
+            }
+          },
+          "text": "Jobs",
+          "category": "Jobs"
+        },
+        "Requests": {
+          "metrics": {
+            "project_count": {
+              "text": "Number of Projects",
+              "info": "The total number of projects within the selected duration.<br\/>",
+              "std_err": false
+            },
+            "request_count": {
+              "text": "Number of Proposals",
+              "info": "The total number of requests within the selected duration.<br\/>",
+              "std_err": false
+            }
+          },
+          "dimensions": {
+            "none": {
+              "text": "None",
+              "info": "Summarizes all accounts."
+            },
+            "fieldofscience": {
+              "text": "Field of Science",
+              "info": "The field of science indicated on the allocation request."
+            },
+            "nsfdirectorate": {
+              "text": "NSF Directorate",
+              "info": "The NSF directorate of the field of science indiciated on the allocation request pertaining."
+            },
+            "parentscience": {
+              "text": "Parent Science",
+              "info": "The parent of the field of science indiciated on the allocation request."
+            }
+          },
+          "text": "Requests",
+          "category": "Requests"
+        },
+        "SUPREMM": {
+          "metrics": {
+            "avg_percent_cpu_idle": {
+              "text": "Avg CPU %: Idle: weighted by core-hour",
+              "info": "The average CPU idle % weighted by core hours, over all jobs that were executing.",
+              "std_err": false
+            },
+            "avg_percent_cpu_system": {
+              "text": "Avg CPU %: System: weighted by core-hour",
+              "info": "The average CPU system % weighted by core hours, over all jobs that were executing.",
+              "std_err": false
+            },
+            "avg_percent_cpu_user": {
+              "text": "Avg CPU %: User: weighted by core-hour",
+              "info": "The average CPU user % weighted by core hours, over all jobs that were executing.",
+              "std_err": false
+            },
+            "avg_netdir_home_write": {
+              "text": "Avg: \/home write rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes written per second per node for the filesystem mounted on mount point \/home",
+              "std_err": false
+            },
+            "avg_netdir_scratch_write": {
+              "text": "Avg: \/scratch write rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes written per second per node for the filesystem mounted on mount point \/scratch",
+              "std_err": false
+            },
+            "avg_netdir_work_write": {
+              "text": "Avg: \/work write rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes written per second per node for the filesystem mounted on mount point \/work",
+              "std_err": false
+            },
+            "avg_cpiref_per_core": {
+              "text": "Avg: CPI: Per Core weighted by core-hour",
+              "info": "The average ratio of clock ticks to instructions per core weighted by core-hour. The CPI is calculated using the reference processor clock.",
+              "std_err": false
+            },
+            "avg_cpldref_per_core": {
+              "text": "Avg: CPLD: Per Core weighted by core-hour",
+              "info": "The average ratio of clock ticks to L1D cache loads per core weighted by core-hour. The CPLD is calculated using the reference processor clock.",
+              "std_err": false
+            },
+            "avg_cpuusercv_per_core": {
+              "text": "Avg: CPU User CV: weighted by core-hour",
+              "info": "The average CPU user coefficient of variation weighted by core-hour. The coefficient of variation is defined as the ratio of the standard deviation to the mean",
+              "std_err": false
+            },
+            "avg_cpuuserimb_per_core": {
+              "text": "Avg: CPU User Imbalance: weighted by core-hour (%)",
+              "info": "The average normalized CPU user imbalance weighted by core-hour. Imbalance is defined as 100*(max-min)\/max, where max is value of the CPU user for the CPU with the largest CPU user.",
+              "std_err": false
+            },
+            "avg_flops_per_core": {
+              "text": "Avg: FLOPS: Per Core weighted by core-hour (ops\/s)",
+              "info": "The average number of floating point operations per second per core over all jobs that ran in the selected time period.",
+              "std_err": false
+            },
+            "avg_ib_rx_bytes": {
+              "text": "Avg: InfiniBand rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node over the data interconnect. This value only includes the inter-node data transfers and does not count any other data over the interconnect (for example parallel filesystem data).",
+              "std_err": false
+            },
+            "avg_mem_bw_per_core": {
+              "text": "Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes\/s)",
+              "info": "The average main-memory transfer rate per core weighted by core-hour.",
+              "std_err": false
+            },
+            "avg_memory_per_core": {
+              "text": "Avg: Memory: Per Core weighted by core-hour (bytes)",
+              "info": "The average memory used per core for all selected jobs that ran in the selected time period",
+              "std_err": false
+            },
+            "avg_total_memory_per_core": {
+              "text": "Avg: Total Memory: Per Core weighted by core-hour (bytes)",
+              "info": "The average total memory used (including kernel and disk cache) per core for all selected jobs that ran in the selected time period",
+              "std_err": false
+            },
+            "avg_block_sda_rd_ios": {
+              "text": "Avg: block sda read ops rate: Per Node weighted by node-hour (ops\/s)",
+              "info": "Average number of read operations per second per node for the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_block_sda_rd_bytes": {
+              "text": "Avg: block sda read rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes read per second per node from the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_block_sda_wr_ios": {
+              "text": "Avg: block sda write ops rate: Per Node weighted by node-hour (ops\/s)",
+              "info": "Average number of write operations per second per node for the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_block_sda_wr_bytes": {
+              "text": "Avg: block sda write rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes written per second per node to the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_net_eth0_rx": {
+              "text": "Avg: eth0 receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node for network device eth0",
+              "std_err": false
+            },
+            "avg_net_eth0_tx": {
+              "text": "Avg: eth0 transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node for network device eth0.",
+              "std_err": false
+            },
+            "avg_net_ib0_rx": {
+              "text": "Avg: ib0 receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node for network device ib0",
+              "std_err": false
+            },
+            "avg_net_ib0_tx": {
+              "text": "Avg: ib0 transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node for network device ib0.",
+              "std_err": false
+            },
+            "avg_netdrv_lustre_rx": {
+              "text": "Avg: lustre receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node from the lustre filesystem.",
+              "std_err": false
+            },
+            "avg_netdrv_lustre_tx": {
+              "text": "Avg: lustre transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node to the lustre filesystem.",
+              "std_err": false
+            },
+            "avg_net_mic0_rx": {
+              "text": "Avg: mic0 receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node for network device mic0",
+              "std_err": false
+            },
+            "avg_net_mic0_tx": {
+              "text": "Avg: mic0 transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node for network device mic0.",
+              "std_err": false
+            },
+            "avg_net_mic1_rx": {
+              "text": "Avg: mic1 receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node for network device mic1",
+              "std_err": false
+            },
+            "avg_net_mic1_tx": {
+              "text": "Avg: mic1 transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node for network device mic1.",
+              "std_err": false
+            },
+            "cpu_time_idle": {
+              "text": "CPU Hours: Idle: Total",
+              "info": "The idle CPU hours for all jobs that were executing during the time period.",
+              "std_err": false
+            },
+            "cpu_time_system": {
+              "text": "CPU Hours: System: Total",
+              "info": "The system CPU hours for all jobs that were executing during the time period.",
+              "std_err": false
+            },
+            "wall_time": {
+              "text": "CPU Hours: Total",
+              "info": "The total core time, in hours.<br\/><i>Core Time:<\/i> defined as the time between start and end time of execution for a particular job times the number of allocated cores.",
+              "std_err": false
+            },
+            "cpu_time_user": {
+              "text": "CPU Hours: User: Total",
+              "info": "The user CPU hours for all jobs that were executing during the time period.",
+              "std_err": false
+            },
+            "job_count": {
+              "text": "Number of Jobs Ended",
+              "info": "The total number of jobs that ended within the selected duration.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "running_job_count": {
+              "text": "Number of Jobs Running",
+              "info": "The total number of running jobs.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment",
+              "std_err": false
+            },
+            "started_job_count": {
+              "text": "Number of Jobs Started",
+              "info": "The total number of jobs that started executing within the selected duration.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "submitted_job_count": {
+              "text": "Number of Jobs Submitted",
+              "info": "The total number of jobs that were submitted\/queued within the selected duration.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "wait_time_per_job": {
+              "text": "Wait Hours: Per Job",
+              "info": "The average time, in hours, a job waits before execution on the designated resource.<br\/><i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": false
+            },
+            "wait_time": {
+              "text": "Wait Hours: Total",
+              "info": "The total time, in hours, jobs waited before execution on their designated resource.<br\/><i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": false
+            },
+            "wall_time_per_job": {
+              "text": "Wall Hours: Per Job",
+              "info": "The average time, in hours, a job takes to execute.<br\/><i>Wall Time:<\/i> Wall time is defined as the linear time between start and end time of execution for a particular job.",
+              "std_err": false
+            },
+            "requested_wall_time_per_job": {
+              "text": "Wall Hours: Requested: Per Job",
+              "info": "The average time, in hours, a job requested for execution.<br\/><i>Requested Wall Time:<\/i> Requsted wall time is defined as the user requested linear time between start and end time for execution of a particular job.",
+              "std_err": false
+            },
+            "requested_wall_time": {
+              "text": "Wall Hours: Requested: Total",
+              "info": "The total time, in hours, jobs requested for execution.<br\/><i>Requested Wall Time:<\/i> Requsted wall time is defined as the user requested linear time between start and end time for execution of a particular job.",
+              "std_err": false
+            }
+          },
+          "dimensions": {
+            "none": {
+              "text": "None",
+              "info": "Summarizes job performance data obtained via the SUPReMM project. These data are obtained from performance monitoring software running on each HPC resource. For most resources this data is generated for both XSEDE and non-XSEDE jobs. Non-XSEDE jobs can be filtered using a filter on the &quot;Grant Type&quot;."
+            },
+            "application": {
+              "text": "Application",
+              "info": "The classication of the job as common scientific application."
+            },
+            "appclassmethod_id": {
+              "text": "Application Class. Method",
+              "info": "The classification algorithm that was used to identify the application."
+            },
+            "catastrophe_bucket_id": {
+              "text": "Catastrophe Rank",
+              "info": "indicator L1D cache load drop off (smaller is worse)"
+            },
+            "cpi": {
+              "text": "CPI Value",
+              "info": "The number of cpu clock ticks per instruction on average per core."
+            },
+            "cpucv": {
+              "text": "CPU User CV",
+              "info": "Coefficient of variation for the CPU user for all cores that were assigned to the job."
+            },
+            "cpuuser": {
+              "text": "CPU User Value",
+              "info": "The ratio of user cpu time to total cpu time for the cores that the job was assigned."
+            },
+            "datasource": {
+              "text": "Datasource",
+              "info": "The software used to collect the performance data."
+            },
+            "exit_status": {
+              "text": "Exit Status",
+              "info": "A categorization of jobs into discrete groups based on the exit status of each job reported by the resource manager."
+            },
+            "fieldofscience": {
+              "text": "Field of Science",
+              "info": "The field of science indicated on the allocation request pertaining to the running jobs."
+            },
+            "grant_type": {
+              "text": "Grant Type",
+              "info": "A categorization of the projects\/allocations."
+            },
+            "granted_pe": {
+              "text": "Granted Processing Element",
+              "info": "How many cores within one node."
+            },
+            "ibrxbyterate_bucket_id": {
+              "text": "InfiniBand Receive rate",
+              "info": "number of bytes received per node over the data interconnect"
+            },
+            "jobsize": {
+              "text": "Job Size",
+              "info": "A categorization of jobs into discrete groups based on the number of cores used by each job."
+            },
+            "jobwalltime": {
+              "text": "Job Wall Time",
+              "info": "A categorization of jobs into discrete groups based on the total linear time each job took to execute."
+            },
+            "netdrv_lustre_rx_bucket_id": {
+              "text": "lustre bytes received",
+              "info": "total number of bytes received per node from the lustre filesystem."
+            },
+            "nodecount": {
+              "text": "Node Count",
+              "info": "A categorization of jobs into discrete groups based on node count."
+            },
+            "nsfdirectorate": {
+              "text": "NSF Directorate",
+              "info": "The NSF directorate of the field of science indiciated on the allocation request pertaining to the running jobs."
+            },
+            "parentscience": {
+              "text": "Parent Science",
+              "info": "The parent of the field of science indiciated on the allocation request pertaining to the running jobs."
+            },
+            "max_mem": {
+              "text": "Peak memory usage",
+              "info": "Maximum ratio of memory used to total memory available for the compute node with the highest peak memory usage"
+            },
+            "pi": {
+              "text": "PI",
+              "info": "The principal investigator of a project."
+            },
+            "pi_institution": {
+              "text": "PI Institution",
+              "info": "Organizations that have PIs with allocations."
+            },
+            "queue": {
+              "text": "Queue",
+              "info": "Queue pertains to the low level job queues on each resource."
+            },
+            "resource": {
+              "text": "Resource",
+              "info": "A resource is a remote computer that can run jobs."
+            },
+            "provider": {
+              "text": "Service Provider",
+              "info": "A service provider is an institution that hosts resource(s)."
+            },
+            "shared": {
+              "text": "Share Mode",
+              "info": "A categorization of jobs into discrete groups based on whether the job shared nodes."
+            },
+            "username": {
+              "text": "System Username",
+              "info": "The specific system username of the users who ran jobs."
+            },
+            "person": {
+              "text": "User",
+              "info": "A person who is on a PIs allocation."
+            },
+            "institution": {
+              "text": "User Institution",
+              "info": "Organizations that have users with allocations."
+            }
+          },
+          "text": "SUPREMM",
+          "category": "SUPREMM"
+        }
+      }
+    }
+  ]
+}
