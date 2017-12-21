@@ -67,12 +67,6 @@
   ],
   [
     {
-      "username": "admin",
-      "output": "get_menus-admin"
-    }
-  ],
-  [
-    {
       "username": "Public User",
       "output": "get_menus-Public User"
     }
