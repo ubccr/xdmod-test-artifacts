@@ -3,7 +3,14 @@
   "response": {
     "status": "success",
     "success": true,
-    "templates": [],
+    "templates": [
+      {
+        "id": "1",
+        "name": "SP Quarterly Report",
+        "description": "Description Here",
+        "use_submenu": "1"
+      }
+    ],
     "count": 0
   }
 }
