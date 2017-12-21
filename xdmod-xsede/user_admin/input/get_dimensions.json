@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "username": "admin",
+      "output": "get_dimensions-admin"
+    }
+  ],
+  [
+    {
+      "username": "centerdirector",
+      "output": "get_dimensions-centerdirector"
+    }
+  ],
+  [
+    {
+      "username": "centerstaff",
+      "output": "get_dimensions-centerstaff"
+    }
+  ],
+  [
+    {
+      "username": "principal",
+      "output": "get_dimensions-principal"
+    }
+  ],
+  [
+    {
+      "username": "normaluser",
+      "output": "get_dimensions-normaluser"
+    }
+  ],
+  [
+    {
+      "username": "test.cd.one-center",
+      "output": "get_dimensions-test.cd.one-center"
+    }
+  ],
+  [
+    {
+      "username": "test.cs.one-center",
+      "output": "get_dimensions-test.cs.one-center"
+    }
+  ],
+  [
+    {
+      "username": "test.pi",
+      "output": "get_dimensions-test.pi"
+    }
+  ],
+  [
+    {
+      "username": "test.normal-user",
+      "output": "get_dimensions-test.normal-user"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_dev",
+      "output": "get_dimensions-test.usr_dev"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr",
+      "output": "get_dimensions-test.usr_mgr"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr_dev",
+      "output": "get_dimensions-test.usr_mgr_dev"
+    }
+  ]
+]
