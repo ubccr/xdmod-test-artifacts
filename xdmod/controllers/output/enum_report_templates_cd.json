@@ -1,0 +1,16 @@
+{
+  "http_code": 200,
+  "response": {
+    "status": "success",
+    "success": true,
+    "templates": [
+      {
+        "id": 1,
+        "name": "Quarterly Report - Center Director",
+        "description": "Quarterly Report - Center Director",
+        "use_submenu": "0"
+      }
+    ],
+    "count": 1
+  }
+}

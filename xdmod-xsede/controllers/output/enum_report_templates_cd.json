@@ -1,0 +1,16 @@
+{
+  "http_code": 200,
+  "response": {
+    "status": "success",
+    "success": true,
+    "templates": [
+      {
+        "id": 1,
+        "name": "SP Quarterly Report",
+        "description": "SP Quarterly Report",
+        "use_submenu": "1"
+      }
+    ],
+    "count": 1
+  }
+}

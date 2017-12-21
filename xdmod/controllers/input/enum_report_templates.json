@@ -1,0 +1,22 @@
+[
+  [
+    "pub",
+    "enum_report_templates_pub"
+  ],
+  [
+    "cd",
+    "enum_report_templates_cd"
+  ],
+  [
+    "cs",
+    "enum_report_templates_cs"
+  ],
+  [
+    "pi",
+    "enum_report_templates_pi"
+  ],
+  [
+    "usr",
+    "enum_report_templates_usr"
+  ]
+]
