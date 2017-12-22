@@ -1,0 +1,22 @@
+[
+  {
+    "username": "centerdirector",
+    "output": "enum_center_director_sites-centerdirector.json"
+  },
+  {
+    "username": "centerstaff",
+    "output": "enum_center_director_sites-centerstaff.json"
+  },
+  {
+    "username": "principal",
+    "output": "enum_center_director_sites-principal.json"
+  },
+  {
+    "username": "normaluser",
+    "output": "enum_center_director_sites-normaluser.json"
+  },
+  {
+    "username": "Public User",
+    "output": "enum_center_director_sites-Public User.json"
+  }
+]
