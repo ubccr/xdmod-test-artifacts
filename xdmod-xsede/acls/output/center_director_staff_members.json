@@ -120,6 +120,10 @@
     "name": "dev_cs_usr_acls"
   },
   {
+    "id": "dev_cs_usr_cd_acls",
+    "name": "dev_cs_usr_cd_acls"
+  },
+  {
     "id": "dev_cs_usr_cd_mgr_acls",
     "name": "dev_cs_usr_cd_mgr_acls"
   },
