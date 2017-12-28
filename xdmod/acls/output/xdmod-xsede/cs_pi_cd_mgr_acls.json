@@ -7,13 +7,13 @@
   },
   {
     "description": "Center Staff - TACC",
-    "param_value": "cs:476",
+    "param_value": "cs:1",
     "is_primary": "0",
     "is_active": "0"
   },
   {
-    "description": "User",
-    "param_value": "usr",
+    "description": "Principal Investigator",
+    "param_value": "pi",
     "is_primary": "0",
     "is_active": "0"
   },
