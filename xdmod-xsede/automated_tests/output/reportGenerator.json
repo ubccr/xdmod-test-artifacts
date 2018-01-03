@@ -1,0 +1,97 @@
+{
+  "centerstaff": {
+    "report_templates_available": true
+  },
+  "centerdirector": {
+    "report_templates": {
+      "name": "SP Quarterly Report",
+      "created_name": "SP Quarterly Report (TACC-STAMPEDE)",
+      "created_reports_count": 10,
+      "reports_created": 4,
+      "delivery_format": "Word Document",
+      "charts": [
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Total NUs Charged",
+          "drillDetails": "by Resource",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Total NUs Charged",
+          "drillDetails": "by Job Size",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Avg Wall Hours Per Job",
+          "drillDetails": "by Job Size",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Avg Wait Hours Per Job",
+          "drillDetails": "by Job Size",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "User Expansion Factor",
+          "drillDetails": "by Job Size",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Total NUs Charged",
+          "drillDetails": "by Job Wall Time",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "User Expansion Factor",
+          "drillDetails": "by Job Wall Time",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Total NUs Charged",
+          "drillDetails": "by Field of Science",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Total NUs Charged",
+          "drillDetails": "by User Institution",
+          "timeframeType": "Previous quarter"
+        },
+        {
+          "realm": "Jobs",
+          "startDate": "previousQuarterStartDate",
+          "endDate": "previousQuarterEndDate",
+          "title": "Total NUs Charged",
+          "drillDetails": "by PI",
+          "timeframeType": "Previous quarter"
+        }
+      ]
+    },
+    "center": "TACC"
+  }
+}
