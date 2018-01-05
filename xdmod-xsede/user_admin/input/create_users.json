@@ -23,6 +23,30 @@
   ],
   [
     {
+      "username": "test.cd.multi-center",
+      "acls": {
+        "cd": [
+          476,
+          856
+        ]
+      },
+      "person": 13832
+    }
+  ],
+  [
+    {
+      "username": "test.cs.multi-center",
+      "acls": {
+        "cs": [
+          476,
+          856
+        ]
+      },
+      "person": 12509
+    }
+  ],
+  [
+    {
       "username": "test.pi",
       "acls": {
         "pi": []
