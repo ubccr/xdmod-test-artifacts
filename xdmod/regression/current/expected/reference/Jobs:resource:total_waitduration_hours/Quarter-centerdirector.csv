@@ -1,0 +1,14 @@
+title
+"Wait Hours: Total: by Resource"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Resource,"Wait Hours: Total"
+robertson,247917.5572
+pozidriv,20964.2773
+phillips,18829.9294
+mortorq,18631.2296
+frearson,2.3674
+---------

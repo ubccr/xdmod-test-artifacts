@@ -1,0 +1,50 @@
+title
+"Node Hours: Total: by PI"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+PI,"Node Hours: Total"
+Moorhen,67004.1206
+"Flycatcher, Taiga",16499.1968
+Bufflehead,15354.0759
+Fieldfare,12343.6393
+"Shearwater, Macaronesian",8590.5158
+"Scaup, Lesser",7492.8064
+"Lark, Calandra",5412.7541
+"Bluetail, Red-flanked",2773.5560
+"Shearwater, Balearic",2367.6414
+"White, Great",1973.0475
+"Bunting, Ortolan",1622.8177
+"Egret, Snowy",1593.1473
+Smew,1532.5834
+Fulmar,1526.7695
+"Tern, Caspian",1376.1244
+Chaffinch,1233.9040
+Jackdaw,1140.0327
+"Thrush, Hermit",1092.1644
+"Warbler, Hooded",896.5862
+Nuthatch,883.8199
+"Chiffchaff, Iberian",802.6469
+"Accentor, Alpine",458.9084
+"Kestrel, Lesser",433.1706
+"Warbler, Cetti's",336.9016
+"Petrel, Fea's",251.4810
+"Gull, Yellow-legged",180.5611
+Dunlin,150.5342
+Bittern,135.7597
+"Warbler, Blackpoll",132.4094
+"Goose, Red-breasted",120.6085
+"Harrier, Hen",100.8417
+"Warbler, Savi's",100.6989
+"Dowitcher, Short-billed",81.6261
+"Shearwater, Great",72.0072
+"Martin, Sand",70.2768
+"Spotted, Great",59.8691
+"Swift, Little",54.6022
+Dotterel,48.0070
+"Gull, Glaucous-winged",2.3450
+Blackbird,1.1270
+"Yellowthroat, Common",0.0650
+---------

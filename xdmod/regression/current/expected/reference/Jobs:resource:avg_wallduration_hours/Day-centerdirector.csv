@@ -1,0 +1,14 @@
+title
+"Wall Hours: Per Job: by Resource"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Resource,"Wall Hours: Per Job","Std Dev: Wall Hours: Per Job"
+robertson,7.29909309,0.06683956438166505
+pozidriv,0.59530249,0.023036866114074583
+frearson,0.50704900,0.008911267346025736
+mortorq,0.30365382,0.0098290517351413
+phillips,0.10845801,0.022957296199863444
+---------

@@ -1,0 +1,27 @@
+title
+"Wall Hours: Total: by Queue"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Queue,"Wall Hours: Total"
+white,104246.5939
+black,15066.5797
+pikelet,2773.5560
+croutons,1988.8758
+brioche,1039.6295
+cornbread,800.1428
+roti,769.5467
+nann,264.4661
+focaccia,258.8670
+brown,207.8860
+crumpet,145.3360
+pita,125.1837
+bannock,69.6380
+barm,69.2494
+panettone,49.1340
+chapti,47.8230
+pumpernickel,33.2774
+potbrood,21.0271
+---------
