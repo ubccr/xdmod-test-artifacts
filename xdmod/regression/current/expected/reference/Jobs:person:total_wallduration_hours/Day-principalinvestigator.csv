@@ -1,0 +1,75 @@
+title
+"Wall Hours: Total: by User"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+User,"Wall Hours: Total"
+Moorhen,67004.1206
+Honey-buzzard,15603.5273
+Lapwing,15354.0759
+"Grey, Lesser",8590.5158
+"Warbler, Garden",2773.5560
+"Bunting, Reed",1757.5099
+"Plover, Caspian",1593.1473
+"Pipit, Meadow",1525.7942
+"Dove, Turtle",1423.1385
+"Crane, Sandhill",1071.2072
+"Treecreeper, Short-toed",1026.5386
+"Sandpiper, Spotted",1014.8490
+"Sapsucker, Yellow-bellied",895.6695
+"Thrush, Grey-cheeked",802.6469
+"Scaup, Lesser",648.0389
+"Grebe, Pied-billed",500.2031
+"Warbler, Hooded",458.5558
+"Shearwater, Cory's",438.0304
+"Thrush, Mistle",433.1706
+"Warbler, Sardinian",423.6310
+Ovenbird,413.8244
+"Thrush, Swainson's",405.3622
+"Oriole, Baltimore",273.6333
+Smew,255.4308
+"Warbler, Booted",251.4810
+"Bunting, Yellow-breasted",232.4301
+"Sparrow, White-throated",229.4542
+Shag,227.8811
+Crane,202.8522
+"Tern, Sandwich",174.8777
+Siskin,140.0706
+"Grey, Southern",135.7597
+"Plover, White-tailed",132.4094
+"Goose, Egyptian",126.2599
+Chaffinch,120.0075
+"Harrier, Hen",100.8417
+Jackdaw,87.3878
+Whimbrel,86.4776
+Peregrine,74.5433
+"Scoter, Velvet",74.3636
+"Warbler, Moltoni's",72.0072
+"Auk, Little",70.2768
+"Duck, Ferruginous",70.0080
+"Shrike, Long-tailed",62.2541
+"Bunting, Black-headed",59.8691
+"Warbler, Golden-winged",56.2867
+"Grey, Great",54.6383
+"Bunting, Yellow-browed",50.3500
+"Ibis, Glossy",48.0070
+"Warbler, Dusky",46.3125
+Dunlin,45.2335
+Fieldfare,43.1219
+"Redpoll, Lesser",37.7959
+"Martin, Purple",34.9861
+"Gull, Ring-billed",31.9097
+Coot,23.3244
+"Egret, Cattle",23.3156
+"Grosbeak, Evening",20.1617
+Roller,18.3366
+"Swift, Alpine",10.5622
+"Warbler, Yellow-browed",9.0281
+"Stint, Little",3.6654
+"Martin, Crag",1.1270
+"Sparrow, Savannah",0.6341
+"Gallinule, Allen's",0.2606
+"Partridge, Red-legged",0.0650
+---------

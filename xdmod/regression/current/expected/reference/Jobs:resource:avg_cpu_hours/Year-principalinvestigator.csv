@@ -1,0 +1,11 @@
+title
+"CPU Hours: Per Job: by Resource"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[robertson] CPU Hours: Per Job","[frearson] CPU Hours: Per Job","[pozidriv] CPU Hours: Per Job","[mortorq] CPU Hours: Per Job","[phillips] CPU Hours: Per Job"
+2016,45.91223150,16.68791172,6.70494634,3.21308073,2.80670652
+2017,7.22704017,2.33995244,3.84811579,1.79785503,3.63382480
+---------

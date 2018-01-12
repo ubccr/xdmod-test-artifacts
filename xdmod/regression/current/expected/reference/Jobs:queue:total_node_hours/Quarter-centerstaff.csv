@@ -1,0 +1,27 @@
+title
+"Node Hours: Total: by Queue"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Queue,"Node Hours: Total"
+white,123927.2146
+black,21885.3489
+pikelet,2773.5564
+croutons,1991.0217
+crumpet,1051.3841
+brioche,1039.6295
+brown,965.4461
+cornbread,945.4731
+roti,769.5460
+nann,264.4661
+focaccia,258.8667
+pita,125.1837
+bannock,76.7038
+barm,69.2491
+panettone,49.1337
+chapti,47.8230
+pumpernickel,33.2775
+potbrood,30.4233
+---------

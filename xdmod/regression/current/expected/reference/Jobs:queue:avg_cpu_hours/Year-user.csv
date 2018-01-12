@@ -1,0 +1,11 @@
+title
+"CPU Hours: Per Job: by Queue"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[roti] CPU Hours: Per Job","[pikelet] CPU Hours: Per Job","[cornbread] CPU Hours: Per Job","[crumpet] CPU Hours: Per Job","[focaccia] CPU Hours: Per Job","[brown] CPU Hours: Per Job","[brioche] CPU Hours: Per Job","[chapti] CPU Hours: Per Job","[barm] CPU Hours: Per Job","[panettone] CPU Hours: Per Job","[bannock] CPU Hours: Per Job","[pumpernickel] CPU Hours: Per Job","[pita] CPU Hours: Per Job","[white] CPU Hours: Per Job","[croutons] CPU Hours: Per Job","[nann] CPU Hours: Per Job","[black] CPU Hours: Per Job","[potbrood] CPU Hours: Per Job"
+2016,1244.07001111,564.66363585,246.25299091,534.19971538,2792.95360000,221.80616719,157.56773500,71.73457500,103.23970000,65.51148000,61.09225000,48.32733333,32.10145000,43.79896104,26.76181576,2.35898750,5.74574527,3.95830968
+2017,0,104.22445106,185.80670000,66.65804545,22.07840000,0.96969286,47.94031667,0,35.25860000,0,47.98876364,21.40560000,45.96250000,7.23369946,10.26022958,13.93710889,0.97872925,4.77956522
+---------

@@ -1,0 +1,11 @@
+title
+"CPU Hours: Per Job: by Node Count"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[28] CPU Hours: Per Job","[12] CPU Hours: Per Job","[7] CPU Hours: Per Job","[8] CPU Hours: Per Job","[6] CPU Hours: Per Job","[5] CPU Hours: Per Job","[20] CPU Hours: Per Job","[14] CPU Hours: Per Job","[4] CPU Hours: Per Job","[2] CPU Hours: Per Job","[3] CPU Hours: Per Job","[9] CPU Hours: Per Job","[16] CPU Hours: Per Job","[24] CPU Hours: Per Job","[1] CPU Hours: Per Job"
+2016,12690.81330000,11508.07879091,2467.25284444,2308.32972083,2240.54530000,1583.68782000,1441.02220000,564.52665000,263.66691176,250.52871500,140.22434000,28.14000000,12.26666667,6.16000000,6.59850613
+2017,0,0,0,195.85702045,176.00471250,649.30540000,3.46670000,0,18.28705000,28.31097532,121.35766000,0,5.60000000,0,3.34438355
+---------

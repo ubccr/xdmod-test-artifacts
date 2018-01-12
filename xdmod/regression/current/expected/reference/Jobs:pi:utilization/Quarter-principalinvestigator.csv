@@ -1,0 +1,50 @@
+title
+"Screwdriver Utilization (%): by PI"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+PI,"Screwdriver Utilization (%)"
+Fieldfare,6.977956222
+Moorhen,6.345087159
+"Scaup, Lesser",5.647449285
+"Bluetail, Red-flanked",3.297890331
+"Flycatcher, Taiga",3.042824275
+"Lark, Calandra",2.185335502
+"White, Great",2.082928968
+"Bunting, Ortolan",1.844111108
+Smew,1.741571970
+Bufflehead,1.453984460
+Nuthatch,1.339121212
+"Thrush, Hermit",1.241095956
+"Shearwater, Balearic",1.055762730
+Chaffinch,1.030328864
+"Egret, Snowy",0.905197287
+Fulmar,0.824535066
+"Shearwater, Macaronesian",0.813495805
+"Warbler, Hooded",0.697648248
+Jackdaw,0.587914834
+"Accentor, Alpine",0.498325331
+"Kestrel, Lesser",0.492239583
+"Tern, Caspian",0.435759246
+"Warbler, Blackpoll",0.150465275
+Dunlin,0.143763996
+"Goose, Red-breasted",0.137021080
+"Gull, Yellow-legged",0.136788722
+"Warbler, Cetti's",0.112092017
+"Petrel, Fea's",0.096737197
+"Chiffchaff, Iberian",0.096551529
+"Warbler, Savi's",0.095358693
+Dotterel,0.090921714
+"Martin, Sand",0.058963011
+"Swift, Little",0.055902917
+Bittern,0.012856032
+"Harrier, Hen",0.009549403
+"Dowitcher, Short-billed",0.007729744
+"Shearwater, Great",0.006818835
+"Spotted, Great",0.005669422
+"Gull, Glaucous-winged",0.002664773
+Blackbird,0.002134366
+"Yellowthroat, Common",0.000098485
+---------

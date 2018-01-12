@@ -1,0 +1,50 @@
+title
+"CPU Hours: Total: by PI"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+PI,"CPU Hours: Total"
+"Flycatcher, Taiga",160661.1221
+Fieldfare,147374.4353
+"Scaup, Lesser",119274.1291
+"Lark, Calandra",69231.4281
+Moorhen,67004.1206
+"Bluetail, Red-flanked",34825.7218
+"Shearwater, Balearic",33446.5630
+"White, Great",21995.7301
+"Bunting, Ortolan",19473.8134
+"Egret, Snowy",19117.7667
+Smew,18391.0000
+Bufflehead,15354.0759
+Nuthatch,14141.1200
+"Tern, Caspian",13804.8534
+"Thrush, Hermit",13105.9734
+Jackdaw,12416.7613
+Chaffinch,10880.2727
+Fulmar,8707.0902
+"Shearwater, Macaronesian",8590.5158
+"Warbler, Hooded",7367.1657
+"Accentor, Alpine",5262.3155
+"Kestrel, Lesser",5198.0497
+"Chiffchaff, Iberian",2039.1680
+"Warbler, Savi's",2013.9755
+"Warbler, Blackpoll",1588.9133
+Dunlin,1518.1478
+"Goose, Red-breasted",1446.9427
+"Gull, Yellow-legged",1444.4889
+"Warbler, Cetti's",1183.6916
+"Petrel, Fea's",1021.5451
+Dotterel,960.1334
+"Martin, Sand",622.6494
+"Swift, Little",590.3347
+Bittern,135.7597
+"Harrier, Hen",100.8417
+"Dowitcher, Short-billed",81.6261
+"Shearwater, Great",72.0072
+"Spotted, Great",59.8691
+"Gull, Glaucous-winged",28.1400
+Blackbird,22.5389
+"Yellowthroat, Common",1.0400
+---------

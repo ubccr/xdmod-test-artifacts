@@ -1,0 +1,16 @@
+title
+"Screwdriver Utilization (%): by System Username"
+parameters
+
+"*Restricted To: PI = Tern, C OR User = Tern, C"
+start,end
+2016-12-22,2017-01-01
+---------
+"System Username","Screwdriver Utilization (%)"
+ovenb,0.627006733
+swath,0.214396993
+ybsbu,0.115091226
+sante,0.016560369
+litst,0.002337069
+savsp,0.000060057
+---------

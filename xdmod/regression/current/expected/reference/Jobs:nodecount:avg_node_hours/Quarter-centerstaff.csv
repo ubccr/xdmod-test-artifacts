@@ -1,0 +1,11 @@
+title
+"Node Hours: Per Job: by Node Count"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Quarter,"[28] Node Hours: Per Job","[12] Node Hours: Per Job","[7] Node Hours: Per Job","[14] Node Hours: Per Job","[8] Node Hours: Per Job","[6] Node Hours: Per Job","[5] Node Hours: Per Job","[20] Node Hours: Per Job","[4] Node Hours: Per Job","[3] Node Hours: Per Job","[2] Node Hours: Per Job","[9] Node Hours: Per Job","[1] Node Hours: Per Job","[16] Node Hours: Per Job","[24] Node Hours: Per Job"
+"2016 Q4",1057.56780000,770.82818182,154.20330000,141.13165000,196.43604583,197.48676923,131.97392000,180.12780000,28.23389020,11.68538000,16.66305500,2.34500000,1.90963911,1.07853333,0.51330000
+"2017 Q1",0,0,0,0,17.64813864,15.34087500,54.10890000,0.43330000,2.10343750,10.11312000,2.56511558,0,1.00730849,0.58445000,0
+---------
