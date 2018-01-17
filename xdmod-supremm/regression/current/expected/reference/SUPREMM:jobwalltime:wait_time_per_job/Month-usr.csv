@@ -1,0 +1,11 @@
+title
+"Wait Hours: Per Job: by Job Wall Time"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Wall Time","Wait Hours: Per Job"
+"5 - 10hr",2.6
+---------

@@ -1,0 +1,11 @@
+title
+"CPU Hours: System: Total: by InfiniBand Receive rate"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","CPU Hours: System: Total"
+"100 - 1k",0.43109840030672986
+---------

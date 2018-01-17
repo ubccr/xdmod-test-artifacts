@@ -1,0 +1,11 @@
+title
+"Number of Jobs Ended: by Application"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Application,"Number of Jobs Ended"
+enzo,1
+---------

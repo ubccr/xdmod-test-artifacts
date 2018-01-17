@@ -1,0 +1,11 @@
+title
+"Avg: FLOPS: Per Core weighted by core-hour (ops/s): by Job Wall Time"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Wall Time","Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+"5 - 10hr",618053200.2575164
+---------

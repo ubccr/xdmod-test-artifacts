@@ -1,0 +1,10 @@
+title
+"Avg: CPI: Per Core weighted by core-hour: by Department"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Department,"Avg: CPI: Per Core weighted by core-hour"
+Unknown,0.7415078280696512
+---------

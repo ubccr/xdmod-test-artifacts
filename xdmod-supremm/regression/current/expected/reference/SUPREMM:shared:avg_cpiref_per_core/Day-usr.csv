@@ -1,0 +1,11 @@
+title
+"Avg: CPI: Per Core weighted by core-hour: by Share Mode"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Share Mode","Avg: CPI: Per Core weighted by core-hour"
+Exclusive,0.6794453050304665
+---------

@@ -1,0 +1,11 @@
+title
+"Avg: FLOPS: Per Core weighted by core-hour (ops/s): by User Institution"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"User Institution","Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+"screw - Screwdriver",618053200.2575164
+---------

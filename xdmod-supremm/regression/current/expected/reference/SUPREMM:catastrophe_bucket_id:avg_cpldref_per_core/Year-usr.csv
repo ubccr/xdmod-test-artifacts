@@ -1,0 +1,11 @@
+title
+"Avg: CPLD: Per Core weighted by core-hour: by Catastrophe Rank"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Catastrophe Rank","Avg: CPLD: Per Core weighted by core-hour"
+NA,2.109724027027582
+---------

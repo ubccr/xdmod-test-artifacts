@@ -1,0 +1,11 @@
+title
+"Number of Jobs Started: by Granted Processing Element"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Granted Processing Element","Number of Jobs Started"
+36,1
+---------

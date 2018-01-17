@@ -1,0 +1,11 @@
+title
+"Avg: Total Memory: Per Core weighted by core-hour (bytes): by Job Size"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Size","Avg: Total Memory: Per Core weighted by core-hour (bytes)"
+"33 - 64",4104107695.7919683
+---------

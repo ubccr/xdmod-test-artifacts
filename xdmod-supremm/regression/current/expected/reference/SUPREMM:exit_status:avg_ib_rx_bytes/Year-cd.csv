@@ -1,0 +1,11 @@
+title
+"Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s): by Exit Status"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"Exit Status","Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s)"
+CANCELLED,19.229986951880115
+COMPLETED,532.5754608933388
+---------

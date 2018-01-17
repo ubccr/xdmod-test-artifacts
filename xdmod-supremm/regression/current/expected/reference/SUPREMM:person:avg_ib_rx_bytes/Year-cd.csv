@@ -1,0 +1,12 @@
+title
+"Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s): by User"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+User,"Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s)"
+Whimbrel,562.9120025243561
+Dunlin,83.84597432905484
+"Goose, Egyptian",19.229986951880115
+---------

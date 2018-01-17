@@ -1,0 +1,12 @@
+title
+"Avg: CPLD: Per Core weighted by core-hour: by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Avg: CPLD: Per Core weighted by core-hour"
+NA,3.003948917855387
+"&lt; 100",2.155221659960016
+"100 - 1k",2.109724027027582
+---------

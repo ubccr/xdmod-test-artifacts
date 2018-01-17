@@ -1,0 +1,11 @@
+title
+"Avg CPU %: Idle: weighted by core-hour: by CPU User CV"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User CV","Avg CPU %: Idle: weighted by core-hour"
+"&lt; 0.1",0.18940480348992947
+---------

@@ -1,0 +1,11 @@
+title
+"Avg: FLOPS: Per Core weighted by core-hour (ops/s): by PI Group"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"PI Group","Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+Unknown,618053200.2575164
+---------

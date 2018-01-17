@@ -1,0 +1,11 @@
+title
+"Avg CPU %: User: weighted by core-hour: by gpfs bytes received"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"gpfs bytes received","Avg CPU %: User: weighted by core-hour"
+NA,99.63685223974439
+---------

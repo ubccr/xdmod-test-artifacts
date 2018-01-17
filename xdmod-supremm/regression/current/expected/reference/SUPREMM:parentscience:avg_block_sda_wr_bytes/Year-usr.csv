@@ -1,0 +1,11 @@
+title
+"Avg: block sda write rate: Per Node weighted by node-hour (bytes/s): by Department"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Department,"Avg: block sda write rate: Per Node weighted by node-hour (bytes/s)"
+Unknown,21.251659895607357
+---------

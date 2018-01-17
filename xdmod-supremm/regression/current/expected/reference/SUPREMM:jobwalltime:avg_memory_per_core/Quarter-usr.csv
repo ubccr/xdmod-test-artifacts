@@ -1,0 +1,11 @@
+title
+"Avg: Memory: Per Core weighted by core-hour (bytes): by Job Wall Time"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Wall Time","Avg: Memory: Per Core weighted by core-hour (bytes)"
+"5 - 10hr",551892085.7885988
+---------

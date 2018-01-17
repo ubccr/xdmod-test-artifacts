@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by CPU User CV"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User CV","CPU Hours: Total"
+"&lt; 0.1",253.53
+---------

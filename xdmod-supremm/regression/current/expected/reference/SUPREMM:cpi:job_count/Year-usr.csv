@@ -1,0 +1,11 @@
+title
+"Number of Jobs Ended: by CPI Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPI Value","Number of Jobs Ended"
+"0.6 - 0.7",1
+---------

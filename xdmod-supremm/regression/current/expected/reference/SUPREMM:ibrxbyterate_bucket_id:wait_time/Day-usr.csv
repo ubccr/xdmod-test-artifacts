@@ -1,0 +1,11 @@
+title
+"Wait Hours: Total: by InfiniBand Receive rate"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Wait Hours: Total"
+"100 - 1k",2.6
+---------

@@ -1,0 +1,11 @@
+title
+"Avg: FLOPS: Per Core weighted by core-hour (ops/s): by Granted Processing Element"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Granted Processing Element","Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+36,618053200.2575164
+---------

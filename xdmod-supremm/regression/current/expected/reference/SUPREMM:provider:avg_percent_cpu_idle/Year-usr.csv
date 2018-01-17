@@ -1,0 +1,11 @@
+title
+"Avg CPU %: Idle: weighted by core-hour: by Service Provider"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Service Provider","Avg CPU %: Idle: weighted by core-hour"
+screw,0.18940480348992947
+---------

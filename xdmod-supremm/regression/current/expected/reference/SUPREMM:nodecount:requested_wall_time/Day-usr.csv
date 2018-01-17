@@ -1,0 +1,11 @@
+title
+"Wall Hours: Requested: Total: by Node Count"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Node Count","Wall Hours: Requested: Total"
+3,7.333333333333333
+---------

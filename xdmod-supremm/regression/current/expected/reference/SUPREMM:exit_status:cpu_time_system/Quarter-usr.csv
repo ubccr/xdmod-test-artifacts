@@ -1,0 +1,11 @@
+title
+"CPU Hours: System: Total: by Exit Status"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Exit Status","CPU Hours: System: Total"
+COMPLETED,0.43109840030672986
+---------

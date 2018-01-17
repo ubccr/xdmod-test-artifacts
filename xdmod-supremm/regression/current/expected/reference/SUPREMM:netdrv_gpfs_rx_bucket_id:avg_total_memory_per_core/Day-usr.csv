@@ -1,0 +1,11 @@
+title
+"Avg: Total Memory: Per Core weighted by core-hour (bytes): by gpfs bytes received"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"gpfs bytes received","Avg: Total Memory: Per Core weighted by core-hour (bytes)"
+NA,4104107695.7919683
+---------

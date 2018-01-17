@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by PI"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+PI,"CPU Hours: Total"
+"White, Great",253.53
+---------

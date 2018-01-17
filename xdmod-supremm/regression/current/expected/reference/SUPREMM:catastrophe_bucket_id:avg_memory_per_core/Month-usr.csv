@@ -1,0 +1,11 @@
+title
+"Avg: Memory: Per Core weighted by core-hour (bytes): by Catastrophe Rank"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Catastrophe Rank","Avg: Memory: Per Core weighted by core-hour (bytes)"
+NA,551892085.7885988
+---------

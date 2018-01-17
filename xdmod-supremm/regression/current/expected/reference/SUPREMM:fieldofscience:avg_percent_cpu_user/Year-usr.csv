@@ -1,0 +1,11 @@
+title
+"Avg CPU %: User: weighted by core-hour: by PI Group"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"PI Group","Avg CPU %: User: weighted by core-hour"
+Unknown,99.63685223974439
+---------

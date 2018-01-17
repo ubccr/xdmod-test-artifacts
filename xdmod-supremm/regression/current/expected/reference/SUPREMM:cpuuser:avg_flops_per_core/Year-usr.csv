@@ -1,0 +1,11 @@
+title
+"Avg: FLOPS: Per Core weighted by core-hour (ops/s): by CPU User Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User Value","Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+"&gt; 90",618053200.2575164
+---------

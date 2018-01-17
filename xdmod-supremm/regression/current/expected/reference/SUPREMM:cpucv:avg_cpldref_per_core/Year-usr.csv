@@ -1,0 +1,11 @@
+title
+"Avg: CPLD: Per Core weighted by core-hour: by CPU User CV"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User CV","Avg: CPLD: Per Core weighted by core-hour"
+"&lt; 0.1",2.109724027027582
+---------

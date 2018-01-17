@@ -1,0 +1,11 @@
+title
+"Wait Hours: Total: by isilon bytes received"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"isilon bytes received","Wait Hours: Total"
+NA,2.6
+---------

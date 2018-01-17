@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by Datasource"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Datasource,"CPU Hours: Total"
+pcp,253.53
+---------

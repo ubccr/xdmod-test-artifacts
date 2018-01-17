@@ -1,0 +1,11 @@
+title
+"Wait Hours: Per Job: by CPU User Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User Value","Wait Hours: Per Job"
+"&gt; 90",2.6
+---------

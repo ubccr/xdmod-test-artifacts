@@ -1,0 +1,11 @@
+title
+"Wait Hours: Per Job: by Department"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Department,"Wait Hours: Per Job"
+Unknown,2.6
+---------

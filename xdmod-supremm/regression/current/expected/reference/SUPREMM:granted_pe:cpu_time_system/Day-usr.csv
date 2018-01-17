@@ -1,0 +1,11 @@
+title
+"CPU Hours: System: Total: by Granted Processing Element"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Granted Processing Element","CPU Hours: System: Total"
+36,0.43109840030672986
+---------

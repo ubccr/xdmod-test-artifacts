@@ -1,0 +1,11 @@
+title
+"Number of Jobs Submitted: by CPU User CV"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User CV","Number of Jobs Submitted"
+"&lt; 0.1",1
+---------

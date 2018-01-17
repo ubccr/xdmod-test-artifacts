@@ -1,0 +1,10 @@
+title
+"CPU Hours: Idle: Total: by Department"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Department,"CPU Hours: Idle: Total"
+Unknown,2310.739121458725
+---------

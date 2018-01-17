@@ -1,0 +1,11 @@
+title
+"CPU Hours: Idle: Total"
+parameters
+
+"*Restricted To: PI = Tern, C OR User = Tern, C"
+start,end
+2016-12-22,2017-01-01
+---------
+Summary,"CPU Hours: Idle: Total"
+SUPREMM,
+---------

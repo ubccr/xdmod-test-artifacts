@@ -1,0 +1,11 @@
+title
+"CPU Hours: Idle: Total: by Department"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Department,"CPU Hours: Idle: Total"
+Unknown,0.4801979982880181
+---------

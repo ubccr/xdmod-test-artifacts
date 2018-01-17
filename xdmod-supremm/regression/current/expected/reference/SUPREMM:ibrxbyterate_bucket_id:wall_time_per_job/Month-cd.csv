@@ -1,0 +1,12 @@
+title
+"Wall Hours: Per Job: by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Wall Hours: Per Job"
+NA,17.63263888888889
+"&lt; 100",10.750277777777779
+"100 - 1k",7.0425
+---------

@@ -1,0 +1,11 @@
+title
+"Wall Hours: Per Job: by Job Size"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Size","Wall Hours: Per Job"
+"33 - 64",7.0425
+---------
