@@ -1,0 +1,11 @@
+title
+"Avg: gpfs transmit rate: Per Node weighted by node-hour (bytes/s): by Exit Status"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Exit Status","Avg: gpfs transmit rate: Per Node weighted by node-hour (bytes/s)"
+COMPLETED,0
+---------

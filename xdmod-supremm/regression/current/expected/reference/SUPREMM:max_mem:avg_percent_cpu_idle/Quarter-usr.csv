@@ -1,0 +1,11 @@
+title
+"Avg CPU %: Idle: weighted by core-hour: by Peak Memory Usage (%)"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Peak Memory Usage (%)","Avg CPU %: Idle: weighted by core-hour"
+"&lt; 10",0.18940480348992947
+---------

@@ -1,0 +1,12 @@
+title
+"Wait Hours: Per Job: by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Wait Hours: Per Job"
+NA,33.83097222222222
+"&lt; 100",1.4145833333333335
+"100 - 1k",2.6
+---------

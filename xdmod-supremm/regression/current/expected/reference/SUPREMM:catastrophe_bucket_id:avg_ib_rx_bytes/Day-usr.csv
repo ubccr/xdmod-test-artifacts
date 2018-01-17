@@ -1,0 +1,11 @@
+title
+"Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s): by Catastrophe Rank"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Catastrophe Rank","Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s)"
+NA,562.9120025243561
+---------

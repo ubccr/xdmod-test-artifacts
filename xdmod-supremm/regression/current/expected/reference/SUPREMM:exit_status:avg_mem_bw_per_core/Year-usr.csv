@@ -1,0 +1,11 @@
+title
+"Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes/s): by Exit Status"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Exit Status","Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes/s)"
+COMPLETED,34129588.90402918
+---------

@@ -1,0 +1,11 @@
+title
+"Number of Jobs Submitted"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Summary,"Number of Jobs Submitted"
+SUPREMM,1
+---------

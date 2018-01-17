@@ -1,0 +1,11 @@
+title
+"Avg: CPLD: Per Core weighted by core-hour: by Job Wall Time"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Wall Time","Avg: CPLD: Per Core weighted by core-hour"
+"5 - 10hr",2.109724027027582
+---------

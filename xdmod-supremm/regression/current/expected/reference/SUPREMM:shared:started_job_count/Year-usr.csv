@@ -1,0 +1,11 @@
+title
+"Number of Jobs Started: by Share Mode"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Share Mode","Number of Jobs Started"
+Exclusive,1
+---------

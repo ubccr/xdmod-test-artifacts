@@ -1,0 +1,11 @@
+title
+"Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s): by Granted Processing Element"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Granted Processing Element","Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s)"
+36,562.9120025243561
+---------

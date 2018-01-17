@@ -1,0 +1,11 @@
+title
+"Wall Hours: Requested: Per Job: by Peak Memory Usage (%)"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Peak Memory Usage (%)","Wall Hours: Requested: Per Job"
+"&lt; 10",7.333333333333333
+---------

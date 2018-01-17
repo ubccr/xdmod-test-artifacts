@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by Share Mode"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Share Mode","CPU Hours: Total"
+Exclusive,253.53
+---------

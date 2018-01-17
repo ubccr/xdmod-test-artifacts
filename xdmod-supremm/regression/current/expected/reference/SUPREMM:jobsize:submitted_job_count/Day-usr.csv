@@ -1,0 +1,11 @@
+title
+"Number of Jobs Submitted: by Job Size"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Size","Number of Jobs Submitted"
+"33 - 64",0
+---------

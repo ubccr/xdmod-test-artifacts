@@ -1,0 +1,11 @@
+title
+"Wait Hours: Total: by Service Provider"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Service Provider","Wait Hours: Total"
+screw,2.6
+---------

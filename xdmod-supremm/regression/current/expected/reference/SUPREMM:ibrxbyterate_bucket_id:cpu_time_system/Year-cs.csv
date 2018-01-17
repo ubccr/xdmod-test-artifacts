@@ -1,0 +1,12 @@
+title
+"CPU Hours: System: Total: by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","CPU Hours: System: Total"
+NA,81.27399898350046
+"&lt; 100",6.6510112754821975
+"100 - 1k",0.43109840030672986
+---------

@@ -1,0 +1,11 @@
+title
+"Avg CPU %: User: weighted by core-hour: by CPI Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPI Value","Avg CPU %: User: weighted by core-hour"
+"0.6 - 0.7",99.63685223974439
+---------

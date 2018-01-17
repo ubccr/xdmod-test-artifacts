@@ -1,0 +1,11 @@
+title
+"Avg: Total Memory: Per Core weighted by core-hour (bytes): by CPU User Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User Value","Avg: Total Memory: Per Core weighted by core-hour (bytes)"
+"&gt; 90",4104107695.7919683
+---------

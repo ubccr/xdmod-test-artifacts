@@ -1,0 +1,12 @@
+title
+"Avg: Total Memory: Per Core weighted by core-hour (bytes): by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Avg: Total Memory: Per Core weighted by core-hour (bytes)"
+NA,4196041268.827465
+"&lt; 100",769166084.0778607
+"100 - 1k",4104107695.7919683
+---------

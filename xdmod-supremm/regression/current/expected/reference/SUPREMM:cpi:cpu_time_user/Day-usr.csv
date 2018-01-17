@@ -1,0 +1,11 @@
+title
+"CPU Hours: User: Total: by CPI Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPI Value","CPU Hours: User: Total"
+"0.6 - 0.7",252.60931148342394
+---------

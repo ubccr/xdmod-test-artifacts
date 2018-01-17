@@ -1,0 +1,11 @@
+title
+"Avg CPU %: User: weighted by core-hour: by CPU User Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User Value","Avg CPU %: User: weighted by core-hour"
+"&gt; 90",99.63685223974439
+---------

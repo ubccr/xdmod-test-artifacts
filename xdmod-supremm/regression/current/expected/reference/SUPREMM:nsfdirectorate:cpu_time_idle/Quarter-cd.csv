@@ -1,0 +1,10 @@
+title
+"CPU Hours: Idle: Total: by Decanal Unit"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"Decanal Unit","CPU Hours: Idle: Total"
+Unknown,2310.739121458725
+---------

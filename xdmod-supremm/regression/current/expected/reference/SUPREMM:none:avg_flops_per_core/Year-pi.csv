@@ -1,0 +1,11 @@
+title
+"Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+parameters
+
+"*Restricted To: PI = Tern, C OR User = Tern, C"
+start,end
+2016-12-22,2017-01-01
+---------
+Summary,"Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+SUPREMM,
+---------

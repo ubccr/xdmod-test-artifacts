@@ -1,0 +1,12 @@
+title
+"Number of Jobs Submitted: by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Number of Jobs Submitted"
+NA,2
+"&lt; 100",2
+"100 - 1k",0
+---------

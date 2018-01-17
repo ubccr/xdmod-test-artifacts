@@ -1,0 +1,11 @@
+title
+"Avg: Total Memory: Per Core weighted by core-hour (bytes): by Resource"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Resource,"Avg: Total Memory: Per Core weighted by core-hour (bytes)"
+robertson,4104107695.7919683
+---------

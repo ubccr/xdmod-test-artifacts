@@ -1,0 +1,11 @@
+title
+"Avg: Memory: Per Core weighted by core-hour (bytes): by User"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+User,"Avg: Memory: Per Core weighted by core-hour (bytes)"
+Whimbrel,551892085.7885988
+---------

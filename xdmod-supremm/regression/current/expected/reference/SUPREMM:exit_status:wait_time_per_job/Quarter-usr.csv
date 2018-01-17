@@ -1,0 +1,11 @@
+title
+"Wait Hours: Per Job: by Exit Status"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Exit Status","Wait Hours: Per Job"
+COMPLETED,2.6
+---------

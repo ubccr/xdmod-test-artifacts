@@ -1,0 +1,11 @@
+title
+"Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes/s): by PI Group"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"PI Group","Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes/s)"
+Unknown,34129588.90402918
+---------

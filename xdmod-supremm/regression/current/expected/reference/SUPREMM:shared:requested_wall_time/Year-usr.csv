@@ -1,0 +1,11 @@
+title
+"Wall Hours: Requested: Total: by Share Mode"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Share Mode","Wall Hours: Requested: Total"
+Exclusive,7.333333333333333
+---------

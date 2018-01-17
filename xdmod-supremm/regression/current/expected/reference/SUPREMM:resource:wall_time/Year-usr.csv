@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by Resource"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Resource,"CPU Hours: Total"
+robertson,253.53
+---------

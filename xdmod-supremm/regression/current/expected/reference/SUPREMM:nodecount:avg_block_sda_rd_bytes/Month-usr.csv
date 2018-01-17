@@ -1,0 +1,11 @@
+title
+"Avg: block sda read rate: Per Node weighted by node-hour (bytes/s): by Node Count"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Node Count","Avg: block sda read rate: Per Node weighted by node-hour (bytes/s)"
+3,0.07112899196676264
+---------

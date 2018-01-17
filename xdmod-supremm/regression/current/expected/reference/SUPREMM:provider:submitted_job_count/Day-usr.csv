@@ -1,0 +1,11 @@
+title
+"Number of Jobs Submitted: by Service Provider"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Service Provider","Number of Jobs Submitted"
+screw,0
+---------

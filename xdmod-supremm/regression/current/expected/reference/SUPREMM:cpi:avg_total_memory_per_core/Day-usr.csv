@@ -1,0 +1,11 @@
+title
+"Avg: Total Memory: Per Core weighted by core-hour (bytes): by CPI Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPI Value","Avg: Total Memory: Per Core weighted by core-hour (bytes)"
+"0.6 - 0.7",4104107695.7919683
+---------

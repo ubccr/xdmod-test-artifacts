@@ -1,0 +1,11 @@
+title
+"Avg: CPU User CV: weighted by core-hour: by Peak Memory Usage (%)"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Peak Memory Usage (%)","Avg: CPU User CV: weighted by core-hour"
+"&lt; 10",0.000384537731233099
+---------

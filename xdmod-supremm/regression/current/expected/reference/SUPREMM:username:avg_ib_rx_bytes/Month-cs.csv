@@ -1,0 +1,12 @@
+title
+"Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s): by System Username"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"System Username","Avg: InfiniBand rate: Per Node weighted by node-hour (bytes/s)"
+whimb,562.9120025243561
+dunli,83.84597432905484
+egygo,19.229986951880115
+---------

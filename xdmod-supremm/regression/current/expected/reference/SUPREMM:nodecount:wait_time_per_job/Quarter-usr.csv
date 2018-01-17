@@ -1,0 +1,11 @@
+title
+"Wait Hours: Per Job: by Node Count"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Node Count","Wait Hours: Per Job"
+3,2.6
+---------

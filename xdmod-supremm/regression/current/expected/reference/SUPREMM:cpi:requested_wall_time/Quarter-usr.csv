@@ -1,0 +1,11 @@
+title
+"Wall Hours: Requested: Total: by CPI Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPI Value","Wall Hours: Requested: Total"
+"0.6 - 0.7",7.333333333333333
+---------

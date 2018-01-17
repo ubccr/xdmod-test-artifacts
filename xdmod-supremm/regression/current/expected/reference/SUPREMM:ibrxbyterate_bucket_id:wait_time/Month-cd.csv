@@ -1,0 +1,12 @@
+title
+"Wait Hours: Total: by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Wait Hours: Total"
+NA,135.3238888888889
+"&lt; 100",2.829166666666667
+"100 - 1k",2.6
+---------

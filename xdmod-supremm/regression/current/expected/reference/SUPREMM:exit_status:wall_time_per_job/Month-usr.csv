@@ -1,0 +1,11 @@
+title
+"Wall Hours: Per Job: by Exit Status"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Exit Status","Wall Hours: Per Job"
+COMPLETED,7.0425
+---------

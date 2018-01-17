@@ -1,0 +1,11 @@
+title
+"Number of Jobs Ended: by Peak Memory Usage (%)"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Peak Memory Usage (%)","Number of Jobs Ended"
+"&lt; 10",1
+---------

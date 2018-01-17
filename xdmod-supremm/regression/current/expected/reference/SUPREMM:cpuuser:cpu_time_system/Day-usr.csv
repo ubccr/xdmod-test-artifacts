@@ -1,0 +1,11 @@
+title
+"CPU Hours: System: Total: by CPU User Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPU User Value","CPU Hours: System: Total"
+"&gt; 90",0.43109840030672986
+---------

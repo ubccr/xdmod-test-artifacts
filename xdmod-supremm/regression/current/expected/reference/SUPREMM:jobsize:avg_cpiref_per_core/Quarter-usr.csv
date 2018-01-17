@@ -1,0 +1,11 @@
+title
+"Avg: CPI: Per Core weighted by core-hour: by Job Size"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Job Size","Avg: CPI: Per Core weighted by core-hour"
+"33 - 64",0.6794453050304665
+---------

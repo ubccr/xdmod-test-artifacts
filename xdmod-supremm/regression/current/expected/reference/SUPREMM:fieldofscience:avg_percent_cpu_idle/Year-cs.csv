@@ -1,0 +1,10 @@
+title
+"Avg CPU %: Idle: weighted by core-hour: by PI Group"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"PI Group","Avg CPU %: Idle: weighted by core-hour"
+Unknown,25.70858911806274
+---------

@@ -1,0 +1,10 @@
+title
+"Avg: CPU User Imbalance: weighted by core-hour (%): by Department"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Department,"Avg: CPU User Imbalance: weighted by core-hour (%)"
+Unknown,26.84975216064799
+---------

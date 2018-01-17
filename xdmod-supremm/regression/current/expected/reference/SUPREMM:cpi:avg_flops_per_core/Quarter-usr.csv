@@ -1,0 +1,11 @@
+title
+"Avg: FLOPS: Per Core weighted by core-hour (ops/s): by CPI Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPI Value","Avg: FLOPS: Per Core weighted by core-hour (ops/s)"
+"0.6 - 0.7",618053200.2575164
+---------

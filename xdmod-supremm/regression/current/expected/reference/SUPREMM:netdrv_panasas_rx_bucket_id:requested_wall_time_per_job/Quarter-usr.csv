@@ -1,0 +1,11 @@
+title
+"Wall Hours: Requested: Per Job: by panasas bytes received"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"panasas bytes received","Wall Hours: Requested: Per Job"
+NA,7.333333333333333
+---------

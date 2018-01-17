@@ -1,0 +1,11 @@
+title
+"Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes/s): by Granted Processing Element"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Granted Processing Element","Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes/s)"
+36,34129588.90402918
+---------

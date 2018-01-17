@@ -1,0 +1,12 @@
+title
+"Avg: CPU User CV: weighted by core-hour: by InfiniBand Receive rate"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+"InfiniBand Receive rate","Avg: CPU User CV: weighted by core-hour"
+NA,0.013300101757124932
+"&lt; 100",2.4787193991715224
+"100 - 1k",0.000384537731233099
+---------

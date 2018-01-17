@@ -1,0 +1,11 @@
+title
+"Wall Hours: Requested: Total"
+parameters
+
+"*Restricted To: PI = Tern, C OR User = Tern, C"
+start,end
+2016-12-22,2017-01-01
+---------
+Summary,"Wall Hours: Requested: Total"
+SUPREMM,0
+---------

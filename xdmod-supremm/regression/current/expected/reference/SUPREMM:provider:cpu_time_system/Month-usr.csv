@@ -1,0 +1,11 @@
+title
+"CPU Hours: System: Total: by Service Provider"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Service Provider","CPU Hours: System: Total"
+screw,0.43109840030672986
+---------

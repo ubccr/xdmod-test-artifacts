@@ -1,0 +1,11 @@
+title
+"Wall Hours: Per Job: by Application"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Application,"Wall Hours: Per Job"
+enzo,7.0425
+---------

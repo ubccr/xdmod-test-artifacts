@@ -1,0 +1,11 @@
+title
+"Wait Hours: Per Job: by CPI Value"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"CPI Value","Wait Hours: Per Job"
+"0.6 - 0.7",2.6
+---------

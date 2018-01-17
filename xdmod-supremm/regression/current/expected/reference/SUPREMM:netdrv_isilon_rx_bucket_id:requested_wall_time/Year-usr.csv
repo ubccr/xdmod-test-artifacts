@@ -1,0 +1,11 @@
+title
+"Wall Hours: Requested: Total: by isilon bytes received"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"isilon bytes received","Wall Hours: Requested: Total"
+NA,7.333333333333333
+---------

@@ -1,0 +1,11 @@
+title
+"Avg: CPI: Per Core weighted by core-hour: by Service Provider"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+"Service Provider","Avg: CPI: Per Core weighted by core-hour"
+screw,0.6794453050304665
+---------

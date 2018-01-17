@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by Application"
+parameters
+
+"*Restricted To: User = Whimbrel"
+start,end
+2016-12-22,2017-01-01
+---------
+Application,"CPU Hours: Total"
+enzo,253.53
+---------
