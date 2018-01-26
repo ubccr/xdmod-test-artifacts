@@ -24,11 +24,6 @@
       "id": "5",
       "type": "Federated",
       "color": "#FFCC00"
-    },
-    {
-      "id": 700,
-      "type": "XSEDE",
-      "color": "#b914f6"
     }
   ],
   "user_roles": [
