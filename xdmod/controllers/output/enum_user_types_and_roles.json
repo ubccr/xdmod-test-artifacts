@@ -19,6 +19,11 @@
       "id": "4",
       "type": "Demo",
       "color": "#808000"
+    },
+    {
+      "id": "5",
+      "type": "Federated",
+      "color": "#FFCC00"
     }
   ],
   "user_roles": [
