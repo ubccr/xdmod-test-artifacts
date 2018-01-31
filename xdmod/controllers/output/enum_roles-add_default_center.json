@@ -8,7 +8,7 @@
       "include": false,
       "primary": false,
       "displays_center": false,
-      "requires_center": false
+      "requires_center": true
     },
     {
       "acl": "Center Staff",
@@ -16,7 +16,7 @@
       "include": false,
       "primary": false,
       "displays_center": false,
-      "requires_center": false
+      "requires_center": true
     },
     {
       "acl": "Manager",
