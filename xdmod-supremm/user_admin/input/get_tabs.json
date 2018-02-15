@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "username": "Public User",
+      "output": "get_tabs-public_user"
+    }
+  ],
+  [
+    {
+      "username": "admin",
+      "output": "get_tabs-admin-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "centerdirector",
+      "output": "get_tabs-centerdirector-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "centerstaff",
+      "output": "get_tabs-centerstaff-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "principal",
+      "output": "get_tabs-principal-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "normaluser",
+      "output": "get_tabs-normaluser-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.cd.one-center",
+      "output": "get_tabs-test.cd.one-center-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.cs.one-center",
+      "output": "get_tabs-test.cs.one-center-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.pi",
+      "output": "get_tabs-test.pi-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.normal-user",
+      "output": "get_tabs-test.normal-user-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_dev",
+      "output": "get_tabs-test.usr_dev-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr",
+      "output": "get_tabs-test.usr_mgr-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr_dev",
+      "output": "get_tabs-test.usr_mgr_dev-update_datawarehouse"
+    }
+  ]
+]

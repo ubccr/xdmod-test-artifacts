@@ -1,0 +1,502 @@
+{
+  "totalCount": 1,
+  "data": [
+    {
+      "realms": {
+        "Jobs": {
+          "metrics": {
+            "avg_cpu_hours": {
+              "text": "CPU Hours: Per Job",
+              "info": "The average CPU hours (number of CPU cores x wall time hours) per Screwdriver job.<br\/>For each job, the CPU usage is aggregated. For example, if a job used 1000 CPUs for one minute, it would be aggregated as 1000 CPU minutes or 16.67 CPU hours.",
+              "std_err": true
+            },
+            "total_cpu_hours": {
+              "text": "CPU Hours: Total",
+              "info": "The total CPU hours (number of CPU cores x wall time hours) used by Screwdriver jobs.<br\/>For each job, the CPU usage is aggregated. For example, if a job used 1000 CPUs for one minute, it would be aggregated as 1000 CPU minutes or 16.67 CPU hours.",
+              "std_err": false
+            },
+            "max_processors": {
+              "text": "Job Size: Max (Core Count)",
+              "info": "The maximum size Screwdriver job in number of cores.<br\/>\n            <i>Job Size: <\/i>The total number of processor cores used by a (parallel) job.",
+              "std_err": false
+            },
+            "min_processors": {
+              "text": "Job Size: Min (Core Count)",
+              "info": "The minimum size Screwdriver job in number of cores.<br\/>\n            <i>Job Size: <\/i>The total number of processor cores used by a (parallel) job.",
+              "std_err": false
+            },
+            "normalized_avg_processors": {
+              "text": "Job Size: Normalized (% of Total Cores)",
+              "info": "The percentage average size Screwdriver job over total machine cores.<br>\n            <i>Normalized Job Size: <\/i>The percentage total number of processor cores used by a (parallel) job over the total number of cores on the machine.",
+              "std_err": false
+            },
+            "avg_processors": {
+              "text": "Job Size: Per Job (Core Count)",
+              "info": "The average job size per  Screwdriver job.<br>\n        <i>Job Size: <\/i>The number of processor cores used by a (parallel) job.",
+              "std_err": true
+            },
+            "avg_job_size_weighted_by_cpu_hours": {
+              "text": "Job Size: Weighted By CPU Hours (Core Count)",
+              "info": "The average Screwdriver job size weighted by CPU Hours. Defined as <br><i>Average Job Size Weighted By CPU Hours: <\/i> sum(i = 0 to n){job i core count*job i cpu hours}\/sum(i =  0 to n){job i cpu hours}",
+              "std_err": false
+            },
+            "avg_node_hours": {
+              "text": "Node Hours: Per Job",
+              "info": "The average node hours (number of nodes x wall time hours) per Screwdriver job.",
+              "std_err": true
+            },
+            "total_node_hours": {
+              "text": "Node Hours: Total",
+              "info": "The total node hours (number of nodes x wall time hours) used by Screwdriver jobs.",
+              "std_err": false
+            },
+            "job_count": {
+              "text": "Number of Jobs Ended",
+              "info": "The total number of Screwdriver jobs that ended within the selected duration.<br\/>\n            <i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "running_job_count": {
+              "text": "Number of Jobs Running",
+              "info": "The total number of running Screwdriver jobs.<br\/>\n        <i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "started_job_count": {
+              "text": "Number of Jobs Started",
+              "info": "The total number of Screwdriver jobs that started executing within the selected duration.<br\/>\n\t\t<i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "submitted_job_count": {
+              "text": "Number of Jobs Submitted",
+              "info": "Number of Jobs Submitted",
+              "std_err": false
+            },
+            "active_pi_count": {
+              "text": "Number of PIs: Active",
+              "info": "The total number of PIs that used Screwdriver resources.",
+              "std_err": false
+            },
+            "active_resource_count": {
+              "text": "Number of Resources: Active",
+              "info": "The total number of active Screwdriver resources.",
+              "std_err": false
+            },
+            "active_person_count": {
+              "text": "Number of Users: Active",
+              "info": "The total number of users that used Screwdriver resources.",
+              "std_err": false
+            },
+            "utilization": {
+              "text": "Screwdriver Utilization (%)",
+              "info": "The percentage of the Screwdriver obligation of a resource that has been utilized by Screwdriver jobs.<br\/><i>Screwdriver Utilization:<\/i> The ratio of the total CPU hours consumed by Screwdriver jobs over a given time period divided by the total CPU hours that the system is contractually required to provide to Screwdriver during that period. It does not include non-Screwdriver jobs.<br\/>It is worth noting that this value is a rough estimate in certain cases where the resource providers don't provide accurate records of their system specifications, over time.",
+              "std_err": false
+            },
+            "expansion_factor": {
+              "text": "User Expansion Factor",
+              "info": "Gauging Screwdriver job-turnaround time, it measures the ratio of wait time and the total time from submission to end of execution.<br\/>\n\t\t<i>User Expansion Factor = ((wait duration + wall duration) \/ wall duration). <\/i>",
+              "std_err": false
+            },
+            "avg_waitduration_hours": {
+              "text": "Wait Hours: Per Job",
+              "info": "The average time, in hours, a Screwdriver job waits before execution on the designated resource.<br\/>\n\t\t<i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": true
+            },
+            "total_waitduration_hours": {
+              "text": "Wait Hours: Total",
+              "info": "The total time, in hours, Screwdriver jobs waited before execution on their designated resource.<br\/>\n\t\t<i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": false
+            },
+            "avg_wallduration_hours": {
+              "text": "Wall Hours: Per Job",
+              "info": "The average time, in hours, a job takes to execute.<br\/>\n            In timeseries view mode, the statistic shows the average wall time per job per\n            time period. In aggregate view mode, this statistic is approximate. The\n            approximation is accurate when the average job walltime is small compared to\n            the aggregation period.<br \/>\n            <i>Wall Time:<\/i> Wall time is defined as the linear time between start and end time of execution for a particular job.",
+              "std_err": true
+            },
+            "total_wallduration_hours": {
+              "text": "Wall Hours: Total",
+              "info": "The total time, in hours, Screwdriver jobs took to execute.<br\/>\n\t\t<i>Wall Time:<\/i> Wall time is defined as the linear time between start and end time of execution for a particular job.",
+              "std_err": false
+            }
+          },
+          "dimensions": {
+            "none": {
+              "text": "None",
+              "info": "Summarizes jobs reported to the Screwdriver central database (excludes non-Screwdriver usage of the resource)."
+            },
+            "nsfdirectorate": {
+              "text": "Decanal Unit",
+              "info": "Decanal Unit"
+            },
+            "parentscience": {
+              "text": "Department",
+              "info": "Department"
+            },
+            "jobsize": {
+              "text": "Job Size",
+              "info": "A categorization of jobs into discrete groups based on the number of cores used by each job."
+            },
+            "jobwalltime": {
+              "text": "Job Wall Time",
+              "info": "A categorization of jobs into discrete groups based on the total linear time each job took to execute."
+            },
+            "nodecount": {
+              "text": "Node Count",
+              "info": "A categorization of jobs into discrete groups based on node count."
+            },
+            "pi": {
+              "text": "PI",
+              "info": "The principal investigator of a project has a valid allocation, which can be used by him\/her or the members of the project to run jobs on."
+            },
+            "fieldofscience": {
+              "text": "PI Group",
+              "info": "PI Group"
+            },
+            "queue": {
+              "text": "Queue",
+              "info": "Queue pertains to the low level job queues on each resource."
+            },
+            "resource": {
+              "text": "Resource",
+              "info": "A resource is a remote computer that can run jobs."
+            },
+            "resource_type": {
+              "text": "Resource Type",
+              "info": "A categorization of resources into by their general capabilities."
+            },
+            "username": {
+              "text": "System Username",
+              "info": "The specific system username of the users who ran jobs."
+            },
+            "person": {
+              "text": "User",
+              "info": "A person who is on a PIs allocation, hence able run jobs on resources."
+            }
+          },
+          "text": "Jobs",
+          "category": "Jobs"
+        },
+        "SUPREMM": {
+          "metrics": {
+            "avg_percent_cpu_idle": {
+              "text": "Avg CPU %: Idle: weighted by core-hour",
+              "info": "The average CPU idle % weighted by core hours, over all jobs that were executing.",
+              "std_err": false
+            },
+            "avg_percent_cpu_system": {
+              "text": "Avg CPU %: System: weighted by core-hour",
+              "info": "The average CPU system % weighted by core hours, over all jobs that were executing.",
+              "std_err": false
+            },
+            "avg_percent_cpu_user": {
+              "text": "Avg CPU %: User: weighted by core-hour",
+              "info": "The average CPU user % weighted by core hours, over all jobs that were executing.",
+              "std_err": false
+            },
+            "avg_cpiref_per_core": {
+              "text": "Avg: CPI: Per Core weighted by core-hour",
+              "info": "The average ratio of clock ticks to instructions per core weighted by core-hour. The CPI is calculated using the reference processor clock.",
+              "std_err": false
+            },
+            "avg_cpldref_per_core": {
+              "text": "Avg: CPLD: Per Core weighted by core-hour",
+              "info": "The average ratio of clock ticks to L1D cache loads per core weighted by core-hour. The CPLD is calculated using the reference processor clock.",
+              "std_err": false
+            },
+            "avg_cpuusercv_per_core": {
+              "text": "Avg: CPU User CV: weighted by core-hour",
+              "info": "The average CPU user coefficient of variation weighted by core-hour. The coefficient of variation is defined as the ratio of the standard deviation to the mean",
+              "std_err": false
+            },
+            "avg_cpuuserimb_per_core": {
+              "text": "Avg: CPU User Imbalance: weighted by core-hour (%)",
+              "info": "The average normalized CPU user imbalance weighted by core-hour. Imbalance is defined as 100*(max-min)\/max, where max is value of the CPU user for the CPU with the largest CPU user.",
+              "std_err": false
+            },
+            "avg_flops_per_core": {
+              "text": "Avg: FLOPS: Per Core weighted by core-hour (ops\/s)",
+              "info": "The average number of floating point operations per second per core over all jobs that ran in the selected time period.",
+              "std_err": false
+            },
+            "avg_ib_rx_bytes": {
+              "text": "Avg: InfiniBand rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node over the data interconnect. This value only includes the inter-node data transfers and does not count any other data over the interconnect (for example parallel filesystem data).",
+              "std_err": false
+            },
+            "avg_mem_bw_per_core": {
+              "text": "Avg: Memory Bandwidth: Per Core weighted by core-hour (bytes\/s)",
+              "info": "The average main-memory transfer rate per core weighted by core-hour.",
+              "std_err": false
+            },
+            "avg_memory_per_core": {
+              "text": "Avg: Memory: Per Core weighted by core-hour (bytes)",
+              "info": "The average memory used per core for all selected jobs that ran in the selected time period",
+              "std_err": false
+            },
+            "avg_total_memory_per_core": {
+              "text": "Avg: Total Memory: Per Core weighted by core-hour (bytes)",
+              "info": "The average total memory used (including kernel and disk cache) per core for all selected jobs that ran in the selected time period",
+              "std_err": false
+            },
+            "avg_block_sda_rd_ios": {
+              "text": "Avg: block sda read ops rate: Per Node weighted by node-hour (ops\/s)",
+              "info": "Average number of read operations per second per node for the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_block_sda_rd_bytes": {
+              "text": "Avg: block sda read rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes read per second per node from the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_block_sda_wr_ios": {
+              "text": "Avg: block sda write ops rate: Per Node weighted by node-hour (ops\/s)",
+              "info": "Average number of write operations per second per node for the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_block_sda_wr_bytes": {
+              "text": "Avg: block sda write rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes written per second per node to the local hard disk device sda.",
+              "std_err": false
+            },
+            "avg_net_eth0_rx": {
+              "text": "Avg: eth0 receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node for network device eth0",
+              "std_err": false
+            },
+            "avg_net_eth0_tx": {
+              "text": "Avg: eth0 transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node for network device eth0.",
+              "std_err": false
+            },
+            "avg_netdrv_gpfs_rx": {
+              "text": "Avg: gpfs receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node from the gpfs filesystem.",
+              "std_err": false
+            },
+            "avg_netdrv_gpfs_tx": {
+              "text": "Avg: gpfs transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node to the gpfs filesystem.",
+              "std_err": false
+            },
+            "avg_net_ib0_rx": {
+              "text": "Avg: ib0 receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node for network device ib0",
+              "std_err": false
+            },
+            "avg_net_ib0_tx": {
+              "text": "Avg: ib0 transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node for network device ib0.",
+              "std_err": false
+            },
+            "avg_netdrv_isilon_rx": {
+              "text": "Avg: isilon receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node from the isilon filesystem.",
+              "std_err": false
+            },
+            "avg_netdrv_isilon_tx": {
+              "text": "Avg: isilon transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node to the isilon filesystem.",
+              "std_err": false
+            },
+            "avg_netdrv_panasas_rx": {
+              "text": "Avg: panasas receive rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes received per second per node from the panasas filesystem.",
+              "std_err": false
+            },
+            "avg_netdrv_panasas_tx": {
+              "text": "Avg: panasas transmit rate: Per Node weighted by node-hour (bytes\/s)",
+              "info": "Average number of bytes transmitted per second per node to the panasas filesystem.",
+              "std_err": false
+            },
+            "cpu_time_idle": {
+              "text": "CPU Hours: Idle: Total",
+              "info": "The idle CPU hours for all jobs that were executing during the time period.",
+              "std_err": false
+            },
+            "cpu_time_system": {
+              "text": "CPU Hours: System: Total",
+              "info": "The system CPU hours for all jobs that were executing during the time period.",
+              "std_err": false
+            },
+            "wall_time": {
+              "text": "CPU Hours: Total",
+              "info": "The total core time, in hours.<br\/><i>Core Time:<\/i> defined as the time between start and end time of execution for a particular job times the number of allocated cores.",
+              "std_err": false
+            },
+            "cpu_time_user": {
+              "text": "CPU Hours: User: Total",
+              "info": "The user CPU hours for all jobs that were executing during the time period.",
+              "std_err": false
+            },
+            "job_count": {
+              "text": "Number of Jobs Ended",
+              "info": "The total number of jobs that ended within the selected duration.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "running_job_count": {
+              "text": "Number of Jobs Running",
+              "info": "The total number of running jobs.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment",
+              "std_err": false
+            },
+            "started_job_count": {
+              "text": "Number of Jobs Started",
+              "info": "The total number of jobs that started executing within the selected duration.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "submitted_job_count": {
+              "text": "Number of Jobs Submitted",
+              "info": "The total number of jobs that were submitted\/queued within the selected duration.<br\/><i>Job: <\/i>A scheduled process for a computer resource in a batch processing environment.",
+              "std_err": false
+            },
+            "wait_time_per_job": {
+              "text": "Wait Hours: Per Job",
+              "info": "The average time, in hours, a job waits before execution on the designated resource.<br\/><i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": false
+            },
+            "wait_time": {
+              "text": "Wait Hours: Total",
+              "info": "The total time, in hours, jobs waited before execution on their designated resource.<br\/><i>Wait Time: <\/i>Wait time is defined as the linear time between submission of a job by a user until it begins to execute.",
+              "std_err": false
+            },
+            "wall_time_per_job": {
+              "text": "Wall Hours: Per Job",
+              "info": "The average time, in hours, a job takes to execute.<br\/><i>Wall Time:<\/i> Wall time is defined as the linear time between start and end time of execution for a particular job.",
+              "std_err": false
+            },
+            "requested_wall_time_per_job": {
+              "text": "Wall Hours: Requested: Per Job",
+              "info": "The average time, in hours, a job requested for execution.<br\/><i>Requested Wall Time:<\/i> Requsted wall time is defined as the user requested linear time between start and end time for execution of a particular job.",
+              "std_err": false
+            },
+            "requested_wall_time": {
+              "text": "Wall Hours: Requested: Total",
+              "info": "The total time, in hours, jobs requested for execution.<br\/><i>Requested Wall Time:<\/i> Requsted wall time is defined as the user requested linear time between start and end time for execution of a particular job.",
+              "std_err": false
+            }
+          },
+          "dimensions": {
+            "none": {
+              "text": "None",
+              "info": "Summarizes job performance data obtained via the SUPReMM project. These data are obtained from performance monitoring software running on each HPC resource. For most resources this data is generated for both XSEDE and non-XSEDE jobs. Non-XSEDE jobs can be filtered using a filter on the &quot;Grant Type&quot;."
+            },
+            "application": {
+              "text": "Application",
+              "info": "The classication of the job as common scientific application."
+            },
+            "catastrophe_bucket_id": {
+              "text": "Catastrophe Rank",
+              "info": "indicator L1D cache load drop off (smaller is worse)"
+            },
+            "cpi": {
+              "text": "CPI Value",
+              "info": "The number of cpu clock ticks per instruction on average per core."
+            },
+            "cpucv": {
+              "text": "CPU User CV",
+              "info": "Coefficient of variation for the CPU user for all cores that were assigned to the job."
+            },
+            "cpuuser": {
+              "text": "CPU User Value",
+              "info": "The ratio of user cpu time to total cpu time for the cores that the job was assigned."
+            },
+            "datasource": {
+              "text": "Datasource",
+              "info": "The software used to collect the performance data."
+            },
+            "nsfdirectorate": {
+              "text": "Decanal Unit",
+              "info": "Decanal Unit"
+            },
+            "parentscience": {
+              "text": "Department",
+              "info": "Department"
+            },
+            "exit_status": {
+              "text": "Exit Status",
+              "info": "A categorization of jobs into discrete groups based on the exit status of each job reported by the resource manager."
+            },
+            "netdrv_gpfs_rx_bucket_id": {
+              "text": "gpfs bytes received",
+              "info": "total number of bytes received per node from the gpfs filesystem."
+            },
+            "grant_type": {
+              "text": "Grant Type",
+              "info": "A categorization of the projects\/allocations."
+            },
+            "granted_pe": {
+              "text": "Granted Processing Element",
+              "info": "How many cores within one node."
+            },
+            "ibrxbyterate_bucket_id": {
+              "text": "InfiniBand Receive rate",
+              "info": "number of bytes received per node over the data interconnect"
+            },
+            "netdrv_isilon_rx_bucket_id": {
+              "text": "isilon bytes received",
+              "info": "total number of bytes received per node from the isilon filesystem."
+            },
+            "jobsize": {
+              "text": "Job Size",
+              "info": "A categorization of jobs into discrete groups based on the number of cores used by each job."
+            },
+            "jobwalltime": {
+              "text": "Job Wall Time",
+              "info": "A categorization of jobs into discrete groups based on the total linear time each job took to execute."
+            },
+            "nodecount": {
+              "text": "Node Count",
+              "info": "A categorization of jobs into discrete groups based on node count."
+            },
+            "netdrv_panasas_rx_bucket_id": {
+              "text": "panasas bytes received",
+              "info": "total number of bytes received per node from the panasas filesystem."
+            },
+            "max_mem": {
+              "text": "Peak Memory Usage (%)",
+              "info": "Maximum ratio of memory used to total memory available for the compute node with the highest peak memory usage"
+            },
+            "pi": {
+              "text": "PI",
+              "info": "The principal investigator of a project."
+            },
+            "fieldofscience": {
+              "text": "PI Group",
+              "info": "PI Group"
+            },
+            "pi_institution": {
+              "text": "PI Institution",
+              "info": "Organizations that have PIs with allocations."
+            },
+            "queue": {
+              "text": "Queue",
+              "info": "Queue pertains to the low level job queues on each resource."
+            },
+            "resource": {
+              "text": "Resource",
+              "info": "A resource is a remote computer that can run jobs."
+            },
+            "provider": {
+              "text": "Service Provider",
+              "info": "A service provider is an institution that hosts resource(s)."
+            },
+            "shared": {
+              "text": "Share Mode",
+              "info": "A categorization of jobs into discrete groups based on whether the job shared nodes."
+            },
+            "username": {
+              "text": "System Username",
+              "info": "The specific system username of the users who ran jobs."
+            },
+            "person": {
+              "text": "User",
+              "info": "A person who is on a PIs allocation."
+            },
+            "institution": {
+              "text": "User Institution",
+              "info": "Organizations that have users with allocations."
+            }
+          },
+          "text": "SUPREMM",
+          "category": "SUPREMM"
+        }
+      }
+    }
+  ]
+}

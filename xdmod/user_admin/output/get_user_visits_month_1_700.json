@@ -1,0 +1,435 @@
+{
+  "success": true,
+  "stats": [
+    {
+      "last_name": "Erminthrope III",
+      "first_name": "Gertude",
+      "email_address": "jpwhite4@ccr.buffalo.edu",
+      "username": "gertrudeermin",
+      "role_list": "Center Staff,User",
+      "user_type": "1",
+      "timeframe": "2018-02",
+      "visit_frequency": 4
+    },
+    {
+      "last_name": "McTesterson",
+      "first_name": "Testy",
+      "email_address": "tmctesterson@test.com",
+      "username": "tmctesterson",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2018-02",
+      "visit_frequency": 2
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2018-02",
+      "visit_frequency": 2
+    },
+    {
+      "last_name": "Safari Xsede",
+      "first_name": "Ben Test",
+      "email_address": "ben+test-xsede-safari@plessinger.us",
+      "username": "bentestxsedes",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2018-02",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Tern",
+      "first_name": "Caspian",
+      "email_address": "principal@test.com",
+      "username": "principal",
+      "role_list": "Principal Investigator,User",
+      "user_type": "1",
+      "timeframe": "2018-02",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Test",
+      "first_name": "Manuel",
+      "email_address": "mtest@test.com",
+      "username": "mtest",
+      "role_list": "Campus Champion,Center Director,Developer,Manager,Principal Investigator,User",
+      "user_type": "1",
+      "timeframe": "2018-02",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 65
+    },
+    {
+      "last_name": "Whimbrel",
+      "first_name": "Normal",
+      "email_address": "normaluser@test.com",
+      "username": "normaluser",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 26
+    },
+    {
+      "last_name": "Tern",
+      "first_name": "Caspian",
+      "email_address": "principal@test.com",
+      "username": "principal",
+      "role_list": "Principal Investigator,User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 25
+    },
+    {
+      "last_name": "Dove",
+      "first_name": "Turtle",
+      "email_address": "centerstaff@test.com",
+      "username": "centerstaff",
+      "role_list": "Center Staff,User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 23
+    },
+    {
+      "last_name": "Test",
+      "first_name": "Manuel",
+      "email_address": "mtest@test.com",
+      "username": "mtest",
+      "role_list": "Campus Champion,Center Director,Developer,Manager,Principal Investigator,User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 12
+    },
+    {
+      "last_name": "Smith",
+      "first_name": "Edward",
+      "email_address": "esmith@test.com",
+      "username": "esmith",
+      "role_list": "Campus Champion,Center Director,Center Staff,Developer,Manager,Principal Investigator,Program Officer,User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 11
+    },
+    {
+      "last_name": "Gallo",
+      "first_name": "Steve",
+      "email_address": "z3gallo@yahoo.com",
+      "username": "z3gallo@yahoo.com",
+      "role_list": "Center Staff,Principal Investigator,User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 9
+    },
+    {
+      "last_name": "Ben",
+      "first_name": "Warrior",
+      "email_address": "acl-test-1@plessinger.us",
+      "username": "warriorben",
+      "role_list": "Center Staff,User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Palmer",
+      "first_name": "Jeffrey",
+      "email_address": "jtpalmer+acl-test1@buffalo.edu",
+      "username": "jtpalmer+acl-test1",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Smith",
+      "first_name": "Issac",
+      "email_address": "ismith@test.com",
+      "username": "ismith",
+      "role_list": "Developer,Manager,User",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Smith",
+      "first_name": "Sumo",
+      "email_address": "ssmith@test.com",
+      "username": "ssmith",
+      "role_list": "Center Director",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Smith",
+      "first_name": "Ted",
+      "email_address": "tsmith@test.com",
+      "username": "tsmith",
+      "role_list": "Campus Champion,Center Director",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Staff",
+      "first_name": "Center",
+      "email_address": "tacc.cs@test.com",
+      "username": "tacc.cs",
+      "role_list": "Center Staff",
+      "user_type": "1",
+      "timeframe": "2018-01",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-12",
+      "visit_frequency": 374
+    },
+    {
+      "last_name": "Whimbrel",
+      "first_name": "Normal",
+      "email_address": "normaluser@test.com",
+      "username": "normaluser",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-12",
+      "visit_frequency": 257
+    },
+    {
+      "last_name": "Tern",
+      "first_name": "Caspian",
+      "email_address": "principal@test.com",
+      "username": "principal",
+      "role_list": "Principal Investigator,User",
+      "user_type": "1",
+      "timeframe": "2017-12",
+      "visit_frequency": 235
+    },
+    {
+      "last_name": "Dove",
+      "first_name": "Turtle",
+      "email_address": "centerstaff@test.com",
+      "username": "centerstaff",
+      "role_list": "Center Staff,User",
+      "user_type": "1",
+      "timeframe": "2017-12",
+      "visit_frequency": 225
+    },
+    {
+      "last_name": "Staff",
+      "first_name": "Center",
+      "email_address": "tacc.cs@test.com",
+      "username": "tacc.cs",
+      "role_list": "Center Staff",
+      "user_type": "1",
+      "timeframe": "2017-12",
+      "visit_frequency": 5
+    },
+    {
+      "last_name": "Smith",
+      "first_name": "Ted",
+      "email_address": "tsmith@test.com",
+      "username": "tsmith",
+      "role_list": "Campus Champion,Center Director",
+      "user_type": "1",
+      "timeframe": "2017-12",
+      "visit_frequency": 3
+    },
+    {
+      "last_name": "Test",
+      "first_name": "Nikolay",
+      "email_address": "nikolays2@buffalo.edu",
+      "username": "nikolaystest",
+      "role_list": "Center Staff,User",
+      "user_type": "1",
+      "timeframe": "2017-12",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-11",
+      "visit_frequency": 29
+    },
+    {
+      "last_name": "Gallo",
+      "first_name": "Steve",
+      "email_address": "z3gallo@yahoo.com",
+      "username": "z3gallo@yahoo.com",
+      "role_list": "Center Staff,Principal Investigator,User",
+      "user_type": "1",
+      "timeframe": "2017-11",
+      "visit_frequency": 4
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-10",
+      "visit_frequency": 18
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-09",
+      "visit_frequency": 18
+    },
+    {
+      "last_name": "Wilkins-Diehr",
+      "first_name": "Nancy",
+      "email_address": "wilkinsn@sdsc.edu",
+      "username": "wilkinsn",
+      "role_list": "Center Director,Program Officer,User",
+      "user_type": "1",
+      "timeframe": "2017-09",
+      "visit_frequency": 3
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-08",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-05",
+      "visit_frequency": 180
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-04",
+      "visit_frequency": 216
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2017-03",
+      "visit_frequency": 157
+    },
+    {
+      "last_name": "Palmer",
+      "first_name": "Jeffrey",
+      "email_address": "jtpalmer@buffalo.edu",
+      "username": "jtpalmer-test",
+      "role_list": "Center Director",
+      "user_type": "1",
+      "timeframe": "2016-10",
+      "visit_frequency": 1
+    },
+    {
+      "last_name": "Palmer",
+      "first_name": "Jeffrey",
+      "email_address": "jtpalmer@buffalo.edu",
+      "username": "jtpalmer-test",
+      "role_list": "Center Director",
+      "user_type": "1",
+      "timeframe": "2016-07",
+      "visit_frequency": 2
+    },
+    {
+      "last_name": "Palmer",
+      "first_name": "Jeffrey",
+      "email_address": "jtpalmer@buffalo.edu",
+      "username": "jtpalmer-test",
+      "role_list": "Center Director",
+      "user_type": "1",
+      "timeframe": "2016-06",
+      "visit_frequency": 11
+    },
+    {
+      "last_name": "Test",
+      "first_name": "Nikolay",
+      "email_address": "nikolays2@buffalo.edu",
+      "username": "nikolaystest",
+      "role_list": "Center Staff,User",
+      "user_type": "1",
+      "timeframe": "2016-03",
+      "visit_frequency": 5
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2015-11",
+      "visit_frequency": 5
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2015-10",
+      "visit_frequency": 40
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2015-03",
+      "visit_frequency": 2
+    },
+    {
+      "last_name": "cd",
+      "first_name": "cd",
+      "email_address": "cd@cd.com",
+      "username": "centerdirector",
+      "role_list": "User",
+      "user_type": "1",
+      "timeframe": "2015-02",
+      "visit_frequency": 2
+    }
+  ]
+}

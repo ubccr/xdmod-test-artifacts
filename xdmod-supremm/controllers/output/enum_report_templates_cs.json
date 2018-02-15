@@ -1,0 +1,9 @@
+{
+  "http_code": 200,
+  "response": {
+    "status": "success",
+    "success": true,
+    "templates": [],
+    "count": 0
+  }
+}

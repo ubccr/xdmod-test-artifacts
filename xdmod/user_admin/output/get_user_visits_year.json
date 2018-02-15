@@ -1,0 +1,14 @@
+{
+    "success": false,
+    "count": 0,
+    "total": 0,
+    "totalCount": 0,
+    "results": [
+
+    ],
+    "data": [
+
+    ],
+    "message": "SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')  \n                GROUP BY CONCAT(u.id, '-', sm.init_time) ORDER BY sm.init_ti' at line 5",
+    "code": "42000"
+}

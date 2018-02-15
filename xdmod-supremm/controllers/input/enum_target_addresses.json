@@ -1,0 +1,362 @@
+[
+  [
+    {
+      "data": {
+        "group_filter": "all",
+        "role_filter": "any"
+      },
+      "output": "enum_target_addresses_all_any",
+      "success": "true"
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 1,
+        "role_filter": 0
+      },
+      "output": "enum_target_addresses_1_0",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 1,
+        "role_filter": 1
+      },
+      "output": "enum_target_addresses_1_1",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 1,
+        "role_filter": 3
+      },
+      "output": "enum_target_addresses_1_3",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 1,
+        "role_filter": 4
+      },
+      "output": "enum_target_addresses_1_4",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 1,
+        "role_filter": 5
+      },
+      "output": "enum_target_addresses_1_5",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 1,
+        "role_filter": 7
+      },
+      "output": "enum_target_addresses_1_7",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 1,
+        "role_filter": 8
+      },
+      "output": "enum_target_addresses_1_8",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 2,
+        "role_filter": 0
+      },
+      "output": "enum_target_addresses_2_0",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 2,
+        "role_filter": 1
+      },
+      "output": "enum_target_addresses_2_1",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 2,
+        "role_filter": 3
+      },
+      "output": "enum_target_addresses_2_3",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 2,
+        "role_filter": 4
+      },
+      "output": "enum_target_addresses_2_4",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 2,
+        "role_filter": 5
+      },
+      "output": "enum_target_addresses_2_5",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 2,
+        "role_filter": 7
+      },
+      "output": "enum_target_addresses_2_7",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 2,
+        "role_filter": 8
+      },
+      "output": "enum_target_addresses_2_8",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 3,
+        "role_filter": 0
+      },
+      "output": "enum_target_addresses_3_0",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 3,
+        "role_filter": 1
+      },
+      "output": "enum_target_addresses_3_1",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 3,
+        "role_filter": 3
+      },
+      "output": "enum_target_addresses_3_3",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 3,
+        "role_filter": 4
+      },
+      "output": "enum_target_addresses_3_4",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 3,
+        "role_filter": 5
+      },
+      "output": "enum_target_addresses_3_5",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 3,
+        "role_filter": 7
+      },
+      "output": "enum_target_addresses_3_7",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 3,
+        "role_filter": 8
+      },
+      "output": "enum_target_addresses_3_8",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 4,
+        "role_filter": 0
+      },
+      "output": "enum_target_addresses_4_0",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 4,
+        "role_filter": 1
+      },
+      "output": "enum_target_addresses_4_1",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 4,
+        "role_filter": 3
+      },
+      "output": "enum_target_addresses_4_3",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 4,
+        "role_filter": 4
+      },
+      "output": "enum_target_addresses_4_4",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 4,
+        "role_filter": 5
+      },
+      "output": "enum_target_addresses_4_5",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 4,
+        "role_filter": 7
+      },
+      "output": "enum_target_addresses_4_7",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 4,
+        "role_filter": 8
+      },
+      "output": "enum_target_addresses_4_8",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 5,
+        "role_filter": 0
+      },
+      "output": "enum_target_addresses_5_0",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 5,
+        "role_filter": 1
+      },
+      "output": "enum_target_addresses_5_1",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 5,
+        "role_filter": 3
+      },
+      "output": "enum_target_addresses_5_3",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 5,
+        "role_filter": 4
+      },
+      "output": "enum_target_addresses_5_4",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 5,
+        "role_filter": 5
+      },
+      "output": "enum_target_addresses_5_5",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 5,
+        "role_filter": 7
+      },
+      "output": "enum_target_addresses_5_7",
+      "success": true
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": 5,
+        "role_filter": 8
+      },
+      "output": "enum_target_addresses_5_8",
+      "success": true
+    }
+  ]
+]

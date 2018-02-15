@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "username": "test.cd.one-center",
+      "output": "get_menus-test.cd.one-center-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.cs.one-center",
+      "output": "get_menus-test.cs.one-center-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.pi",
+      "output": "get_menus-test.pi-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.normal-user",
+      "output": "get_menus-test.normal-user-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_dev",
+      "output": "get_menus-test.usr_dev-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr",
+      "output": "get_menus-test.usr_mgr-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr_dev",
+      "output": "get_menus-test.usr_mgr_dev-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "centerdirector",
+      "output": "get_menus-centerdirector-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "centerstaff",
+      "output": "get_menus-centerstaff-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "principal",
+      "output": "get_menus-principal-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "normaluser",
+      "output": "get_menus-normaluser-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "admin",
+      "output": "get_menus-admin-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "Public User",
+      "output": "get_menus-Public User-update_datawarehouse"
+    }
+  ]
+]

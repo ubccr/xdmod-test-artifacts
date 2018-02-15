@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "username": "admin",
+      "output": "get_dw_descripters-admin-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "centerdirector",
+      "output": "get_dw_descripters-centerdirector-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "centerstaff",
+      "output": "get_dw_descripters-centerstaff-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "principal",
+      "output": "get_dw_descripters-principal-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "normaluser",
+      "output": "get_dw_descripters-normaluser-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.cd.one-center",
+      "output": "get_dw_descripters-test.cd.one-center-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.cs.one-center",
+      "output": "get_dw_descripters-test.cs.one-center-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.pi",
+      "output": "get_dw_descripters-test.pi-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.normal-user",
+      "output": "get_dw_descripters-test.normal-user-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_dev",
+      "output": "get_dw_descripters-test.usr_dev-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr",
+      "output": "get_dw_descripters-test.usr_mgr-update_datawarehouse"
+    }
+  ],
+  [
+    {
+      "username": "test.usr_mgr_dev",
+      "output": "get_dw_descripters-test.usr_mgr_dev-update_datawarehouse"
+    }
+  ]
+]
