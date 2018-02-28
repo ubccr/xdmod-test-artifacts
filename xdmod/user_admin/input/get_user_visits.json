@@ -27,6 +27,7 @@
         "timeframe": "quarter",
         "user_types": "1"
       },
+      "success": false,
       "output": "get_user_visits_quarter_1",
       "content_type": "text\/html; charset=UTF-8"
     }
