@@ -1,0 +1,12 @@
+{
+  "ignore": [
+    "report_id"
+  ],
+  "data": {
+    "action": "save_report",
+    "phase": "create",
+    "report_id": "3-1519829337",
+    "success": true,
+    "status": "success"
+  }
+}

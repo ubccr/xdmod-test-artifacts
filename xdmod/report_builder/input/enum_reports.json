@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "user": "pub",
+      "expected": {
+        "http_code": 400,
+        "content_type": "text/html; charset=iso-8859-1"
+      },
+      "output": {
+        "name": "pub_enum_available_charts",
+        "extension": ".txt"
+      }
+
+    }
+  ],
+  [
+    {
+      "user": "cd"
+    }
+  ],
+  [
+    {
+      "user": "cs"
+    }
+  ],
+  [
+    {
+      "user": "pi"
+    }
+  ],
+  [
+    {
+      "user": "usr"
+    }
+  ]
+]
