@@ -36,6 +36,12 @@
             "definition_file": "load_data_infile.def.json",
             "#": "Force LOAD DATA INFILE",
             "optimize_query": false
+        },
+        {
+            "name": "test-sql-warnings",
+            "description": "Test SQL statement warnings",
+            "class": "DatabaseIngestor",
+            "definition_file": "sql_warnings.def.json"
         }
     ]
 }
