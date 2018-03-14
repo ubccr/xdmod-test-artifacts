@@ -105,7 +105,7 @@
         "group_filter": 2,
         "role_filter": 3
       },
-      "output": "enum_target_addresses_2_3",
+      "output": "enum_target_addresses_2_3-add_user",
       "success": true
     }
   ],

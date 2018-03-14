@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "user": "cd",
+      "expected": {
+        "file": "get_current_user-cd",
+        "http_code": 200,
+        "content_type": "application/json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "cs",
+      "expected": {
+        "file": "get_current_user-cs",
+        "http_code": 200,
+        "content_type": "application/json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "pi",
+      "expected": {
+        "file": "get_current_user-pi",
+        "http_code": 200,
+        "content_type": "application/json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "usr",
+      "expected": {
+        "file": "get_current_user-usr",
+        "http_code": 200,
+        "content_type": "application/json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "mgr",
+      "expected": {
+        "file": "get_current_user-mgr",
+        "http_code": 200,
+        "content_type": "application/json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "pub",
+      "expected": {
+        "file": "get_current_user-pub",
+        "http_code": 401,
+        "content_type": "application/json"
+      }
+    }
+  ]
+]
