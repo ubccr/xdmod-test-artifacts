@@ -1,10 +1,6 @@
 [
   {
-    "provider": "1",
-    "is_primary": "1"
-  },
-  {
     "provider": "476",
-    "is_primary": "0"
+    "is_primary": "1"
   }
 ]
