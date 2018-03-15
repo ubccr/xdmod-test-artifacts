@@ -5,8 +5,9 @@
         "group_filter": "all",
         "role_filter": "any"
       },
-      "output": "enum_target_addresses_all_any",
-      "success": "true"
+      "expected": {
+        "file": "enum_target_addresses_all_any"
+      }
     }
   ],
   [
@@ -15,8 +16,9 @@
         "group_filter": 1,
         "role_filter": 0
       },
-      "output": "enum_target_addresses_1_0",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_1_0"
+      }
     }
   ],
   [
@@ -25,8 +27,9 @@
         "group_filter": 1,
         "role_filter": 1
       },
-      "output": "enum_target_addresses_1_1",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_1_1"
+      }
     }
   ],
   [
@@ -35,8 +38,9 @@
         "group_filter": 1,
         "role_filter": 3
       },
-      "output": "enum_target_addresses_1_3",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_1_3"
+      }
     }
   ],
   [
@@ -45,8 +49,9 @@
         "group_filter": 1,
         "role_filter": 4
       },
-      "output": "enum_target_addresses_1_4",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_1_4"
+      }
     }
   ],
   [
@@ -55,8 +60,9 @@
         "group_filter": 1,
         "role_filter": 5
       },
-      "output": "enum_target_addresses_1_5",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_1_5"
+      }
     }
   ],
   [
@@ -65,8 +71,9 @@
         "group_filter": 1,
         "role_filter": 7
       },
-      "output": "enum_target_addresses_1_7",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_1_7"
+      }
     }
   ],
   [
@@ -75,8 +82,9 @@
         "group_filter": 1,
         "role_filter": 8
       },
-      "output": "enum_target_addresses_1_8",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_1_8"
+      }
     }
   ],
   [
@@ -85,8 +93,9 @@
         "group_filter": 2,
         "role_filter": 0
       },
-      "output": "enum_target_addresses_2_0",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_2_0"
+      }
     }
   ],
   [
@@ -95,8 +104,9 @@
         "group_filter": 2,
         "role_filter": 1
       },
-      "output": "enum_target_addresses_2_1",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_2_1"
+      }
     }
   ],
   [
@@ -105,8 +115,9 @@
         "group_filter": 2,
         "role_filter": 3
       },
-      "output": "enum_target_addresses_2_3-add_user",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_2_3-add_user"
+      }
     }
   ],
   [
@@ -115,8 +126,9 @@
         "group_filter": 2,
         "role_filter": 4
       },
-      "output": "enum_target_addresses_2_4",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_2_4"
+      }
     }
   ],
   [
@@ -125,8 +137,9 @@
         "group_filter": 2,
         "role_filter": 5
       },
-      "output": "enum_target_addresses_2_5",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_2_5"
+      }
     }
   ],
   [
@@ -135,8 +148,9 @@
         "group_filter": 2,
         "role_filter": 7
       },
-      "output": "enum_target_addresses_2_7",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_2_7"
+      }
     }
   ],
   [
@@ -145,8 +159,9 @@
         "group_filter": 2,
         "role_filter": 8
       },
-      "output": "enum_target_addresses_2_8",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_2_8"
+      }
     }
   ],
   [
@@ -155,8 +170,9 @@
         "group_filter": 3,
         "role_filter": 0
       },
-      "output": "enum_target_addresses_3_0",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_3_0"
+      }
     }
   ],
   [
@@ -165,8 +181,9 @@
         "group_filter": 3,
         "role_filter": 1
       },
-      "output": "enum_target_addresses_3_1",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_3_1"
+      }
     }
   ],
   [
@@ -175,8 +192,9 @@
         "group_filter": 3,
         "role_filter": 3
       },
-      "output": "enum_target_addresses_3_3",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_3_3"
+      }
     }
   ],
   [
@@ -185,8 +203,9 @@
         "group_filter": 3,
         "role_filter": 4
       },
-      "output": "enum_target_addresses_3_4",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_3_4"
+      }
     }
   ],
   [
@@ -195,8 +214,9 @@
         "group_filter": 3,
         "role_filter": 5
       },
-      "output": "enum_target_addresses_3_5",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_3_5"
+      }
     }
   ],
   [
@@ -205,8 +225,9 @@
         "group_filter": 3,
         "role_filter": 7
       },
-      "output": "enum_target_addresses_3_7",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_3_7"
+      }
     }
   ],
   [
@@ -215,8 +236,9 @@
         "group_filter": 3,
         "role_filter": 8
       },
-      "output": "enum_target_addresses_3_8",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_3_8"
+      }
     }
   ],
   [
@@ -225,8 +247,9 @@
         "group_filter": 4,
         "role_filter": 0
       },
-      "output": "enum_target_addresses_4_0",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_4_0"
+      }
     }
   ],
   [
@@ -235,8 +258,9 @@
         "group_filter": 4,
         "role_filter": 1
       },
-      "output": "enum_target_addresses_4_1",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_4_1"
+      }
     }
   ],
   [
@@ -245,8 +269,9 @@
         "group_filter": 4,
         "role_filter": 3
       },
-      "output": "enum_target_addresses_4_3",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_4_3"
+      }
     }
   ],
   [
@@ -255,8 +280,9 @@
         "group_filter": 4,
         "role_filter": 4
       },
-      "output": "enum_target_addresses_4_4",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_4_4"
+      }
     }
   ],
   [
@@ -265,8 +291,9 @@
         "group_filter": 4,
         "role_filter": 5
       },
-      "output": "enum_target_addresses_4_5",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_4_5"
+      }
     }
   ],
   [
@@ -275,8 +302,9 @@
         "group_filter": 4,
         "role_filter": 7
       },
-      "output": "enum_target_addresses_4_7",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_4_7"
+      }
     }
   ],
   [
@@ -285,8 +313,9 @@
         "group_filter": 4,
         "role_filter": 8
       },
-      "output": "enum_target_addresses_4_8",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_4_8"
+      }
     }
   ],
   [
@@ -295,8 +324,9 @@
         "group_filter": 5,
         "role_filter": 0
       },
-      "output": "enum_target_addresses_5_0",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_5_0"
+      }
     }
   ],
   [
@@ -305,8 +335,9 @@
         "group_filter": 5,
         "role_filter": 1
       },
-      "output": "enum_target_addresses_5_1",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_5_1"
+      }
     }
   ],
   [
@@ -315,8 +346,9 @@
         "group_filter": 5,
         "role_filter": 3
       },
-      "output": "enum_target_addresses_5_3",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_5_3"
+      }
     }
   ],
   [
@@ -325,8 +357,9 @@
         "group_filter": 5,
         "role_filter": 4
       },
-      "output": "enum_target_addresses_5_4",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_5_4"
+      }
     }
   ],
   [
@@ -335,8 +368,9 @@
         "group_filter": 5,
         "role_filter": 5
       },
-      "output": "enum_target_addresses_5_5",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_5_5"
+      }
     }
   ],
   [
@@ -345,8 +379,9 @@
         "group_filter": 5,
         "role_filter": 7
       },
-      "output": "enum_target_addresses_5_7",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_5_7"
+      }
     }
   ],
   [
@@ -355,8 +390,56 @@
         "group_filter": 5,
         "role_filter": 8
       },
-      "output": "enum_target_addresses_5_8",
-      "success": true
+      "expected": {
+        "file": "enum_target_addresses_5_8"
+      }
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": "",
+        "role_filter": ""
+      },
+      "expected": {
+        "file": "enum_target_addresses__",
+        "content_type": "application/json",
+        "http_code": 500
+      }
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": "null",
+        "role_filter": "null"
+      },
+      "expected": {
+        "file": "enum_target_addresses_null_null",
+        "content_type": "application/json"
+      }
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": "char_rand(120)",
+        "role_filter": "char_rand(120)"
+      },
+      "expected": {
+        "file": "enum_target_addresses_rand_char(120)_rand_char(120)"
+      }
+    }
+  ],
+  [
+    {
+      "data": {
+        "group_filter": "rand(16)",
+        "role_filter": "rand(16)"
+      },
+      "expected": {
+        "file": "enum_target_addresses_rand(16)_rand(16)"
+      }
     }
   ]
 ]
