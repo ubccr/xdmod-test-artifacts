@@ -3,10 +3,10 @@
   "_account_is_active": true,
   "_username": "principal",
   "_password": "e7d715a9b79d263ae527955341bbe9b1",
-  "_email": "principal@test.com",
-  "_firstName": "Caspian",
+  "_email": "principal@example.com",
+  "_firstName": "Matthew D.",
   "_middleName": "",
-  "_lastName": "Tern",
+  "_lastName": "Jones",
   "_roles": [
     "pi",
     "usr"

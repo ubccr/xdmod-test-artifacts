@@ -3,10 +3,10 @@
   "_account_is_active": true,
   "_username": "centerdirector",
   "_password": "64b3a3a2e66b30b03a3bd490cb4fabdd",
-  "_email": "cd@cd.com",
-  "_firstName": "cd",
+  "_email": "centerdirector@example.com",
+  "_firstName": "Robert",
   "_middleName": "",
-  "_lastName": "cd",
+  "_lastName": "Sugar",
   "_roles": [
     "cd",
     "usr"
