@@ -1,0 +1,51 @@
+[
+  [
+    {
+      "user": "pub",
+      "expected": {
+        "http_code": 400,
+        "content_type": "text/html; charset=iso-8859-1"
+      },
+      "output": {
+        "name": "pub_enum_available_charts-cleanup_report_manager",
+        "extension": ".txt"
+      }
+    }
+  ],
+  [
+    {
+      "user": "cd",
+      "output": {
+        "name": "cd_enum_available_charts-cleanup_report_manager",
+        "extension": ".json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "cs",
+      "output": {
+        "name": "cs_enum_available_charts-cleanup_report_manager",
+        "extension": ".json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "pi",
+      "output": {
+        "name": "pi_enum_available_charts-cleanup_report_manager",
+        "extension": ".json"
+      }
+    }
+  ],
+  [
+    {
+      "user": "usr",
+      "output": {
+        "name": "usr_enum_available_charts-cleanup_report_manager",
+        "extension": ".json"
+      }
+    }
+  ]
+]
