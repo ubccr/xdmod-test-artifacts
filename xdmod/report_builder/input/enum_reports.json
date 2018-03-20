@@ -7,10 +7,9 @@
         "content_type": "text/html; charset=iso-8859-1"
       },
       "output": {
-        "name": "pub_enum_available_charts",
+        "name": "pub_enum_reports",
         "extension": ".txt"
       }
-
     }
   ],
   [
