@@ -423,11 +423,13 @@
   [
     {
       "data": {
-        "group_filter": "char_rand(120)",
-        "role_filter": "char_rand(120)"
+        "group_filter": "E6I2iftftHegzzZmkge17i3je3CP1vfGCXJUddaGUoXtYWPid4jkmnEBqgqrMG8oDRjR4tyZSvsQsi8Fms0IPEjfUKHHqP54HpVMStLLYeBqwK6Sc6A1KUhF",
+        "role_filter": "E6I2iftftHegzzZmkge17i3je3CP1vfGCXJUddaGUoXtYWPid4jkmnEBqgqrMG8oDRjR4tyZSvsQsi8Fms0IPEjfUKHHqP54HpVMStLLYeBqwK6Sc6A1KUhF"
       },
       "expected": {
-        "file": "enum_target_addresses_rand_char(120)_rand_char(120)"
+        "file": "enum_target_addresses_rand_char(120)_rand_char(120)",
+        "http_code": 500,
+        "content_type": "application/json"
       }
     }
   ],

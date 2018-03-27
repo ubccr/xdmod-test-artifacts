@@ -1,5 +1,10 @@
 {
-  "success": true,
+  "success": false,
   "count": 0,
-  "response": []
+  "total": 0,
+  "totalCount": 0,
+  "results": [],
+  "data": [],
+  "message": "SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E6I2iftftHegzzZmkge17i3je3CP1vfGCXJUddaGUoXtYWPid4jkmnEBqgqrMG8oDRjR4tyZSvsQsi8Fms0IPEjfUKHHqP54HpVMStLLYeBqwK6Sc6A1KUhF' in 'where clause'",
+  "code": "42S22"
 }
