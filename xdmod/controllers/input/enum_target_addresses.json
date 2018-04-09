@@ -28,7 +28,7 @@
         "role_filter": 1
       },
       "expected": {
-        "file": "enum_target_addresses_1_1"
+        "file": "enum_target_addresses_1_1-update_enum_user_types_and_roles"
       }
     }
   ],
@@ -39,7 +39,7 @@
         "role_filter": 3
       },
       "expected": {
-        "file": "enum_target_addresses_1_3"
+        "file": "enum_target_addresses_1_3-update_enum_user_types_and_roles"
       }
     }
   ],
@@ -94,7 +94,7 @@
         "role_filter": 0
       },
       "expected": {
-        "file": "enum_target_addresses_2_0"
+        "file": "enum_target_addresses_2_0-update_enum_user_types_and_roles"
       }
     }
   ],
@@ -105,7 +105,7 @@
         "role_filter": 1
       },
       "expected": {
-        "file": "enum_target_addresses_2_1"
+        "file": "enum_target_addresses_2_1-update_enum_user_types_and_roles"
       }
     }
   ],
@@ -116,7 +116,7 @@
         "role_filter": 3
       },
       "expected": {
-        "file": "enum_target_addresses_2_3-add_user"
+        "file": "enum_target_addresses_2_3"
       }
     }
   ],
@@ -160,7 +160,7 @@
         "role_filter": 8
       },
       "expected": {
-        "file": "enum_target_addresses_2_8"
+        "file": "enum_target_addresses_2_8-update_enum_user_types_and_roles"
       }
     }
   ],
@@ -402,9 +402,9 @@
         "role_filter": ""
       },
       "expected": {
-        "file": "enum_target_addresses__",
-        "content_type": "application/json",
-        "http_code": 500
+        "file": "enum_target_addresses__-update_enum_user_types_and_roles",
+        "content_type": "text/html; charset=UTF-8",
+        "http_code": 200
       }
     }
   ],
@@ -427,9 +427,9 @@
         "role_filter": "E6I2iftftHegzzZmkge17i3je3CP1vfGCXJUddaGUoXtYWPid4jkmnEBqgqrMG8oDRjR4tyZSvsQsi8Fms0IPEjfUKHHqP54HpVMStLLYeBqwK6Sc6A1KUhF"
       },
       "expected": {
-        "file": "enum_target_addresses_rand_char(120)_rand_char(120)",
-        "http_code": 500,
-        "content_type": "application/json"
+        "file": "enum_target_addresses_rand_char(120)_rand_char(120)-update_enum_user_types_and_roles",
+        "http_code": 200,
+        "content_type": "text/html; charset=UTF-8"
       }
     }
   ],
