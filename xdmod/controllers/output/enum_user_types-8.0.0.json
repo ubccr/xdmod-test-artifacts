@@ -11,12 +11,12 @@
       "type": "External"
     },
     {
-      "id": "5",
-      "type": "Single Sign On"
-    },
-    {
       "id": "2",
       "type": "Internal"
+    },
+    {
+      "id": "5",
+      "type": "Single Sign On"
     },
     {
       "id": "3",
