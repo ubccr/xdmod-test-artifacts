@@ -22,7 +22,7 @@
     },
     {
       "id": "5",
-      "type": "Federated",
+      "type": "Single Sign On",
       "color": "#b914f6"
     }
   ],
