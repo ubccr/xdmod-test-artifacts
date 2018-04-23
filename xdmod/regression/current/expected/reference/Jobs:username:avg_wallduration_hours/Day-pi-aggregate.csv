@@ -1,0 +1,16 @@
+title
+"Wall Hours: Per Job: by System Username"
+parameters
+
+"*Restricted To: PI = Tern, C OR User = Tern, C"
+start,end
+2016-12-22,2017-01-01
+---------
+"System Username","Wall Hours: Per Job","Std Dev: Wall Hours: Per Job"
+sante,87.43888889,0
+ovenb,82.76488889,0
+ybsbu,38.73833333,0
+swath,0.56853047,0.04163718237845962
+litst,0.33320707,0.09324722160395126
+savsp,0.02439103,0.001692897033294295
+---------

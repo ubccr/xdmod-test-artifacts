@@ -1,0 +1,11 @@
+title
+"Node Hours: Per Job: by Resource"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Quarter,"[robertson] Node Hours: Per Job","[frearson] Node Hours: Per Job","[pozidriv] Node Hours: Per Job","[phillips] Node Hours: Per Job","[mortorq] Node Hours: Per Job"
+"2016 Q4",12.06660912,1.16947224,0.62960939,0.31815837,0.33141233
+"2017 Q1",2.42988601,0.18274285,0.47115554,0.43423497,0.18514095
+---------

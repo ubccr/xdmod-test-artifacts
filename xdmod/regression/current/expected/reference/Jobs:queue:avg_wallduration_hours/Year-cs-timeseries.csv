@@ -1,0 +1,11 @@
+title
+"Wall Hours: Per Job: by Queue"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[barm] Wall Hours: Per Job","[pikelet] Wall Hours: Per Job","[brioche] Wall Hours: Per Job","[roti] Wall Hours: Per Job","[pita] Wall Hours: Per Job","[focaccia] Wall Hours: Per Job","[cornbread] Wall Hours: Per Job","[pumpernickel] Wall Hours: Per Job","[white] Wall Hours: Per Job","[chapti] Wall Hours: Per Job","[crumpet] Wall Hours: Per Job","[bannock] Wall Hours: Per Job","[panettone] Wall Hours: Per Job","[brown] Wall Hours: Per Job","[croutons] Wall Hours: Per Job","[nann] Wall Hours: Per Job","[black] Wall Hours: Per Job","[potbrood] Wall Hours: Per Job"
+2016,51.61972222,42.39147275,44.42152778,42.75256173,18.94884259,232.74611111,17.65664773,9.66546296,9.99804866,5.97788194,8.37072650,4.25579861,3.27557407,2.82398003,2.23275260,0.19659722,0.30935303,0.25336470
+2017,17.62944444,11.20868794,12.59990741,0,11.49055556,2.00927350,11.62486111,4.28111111,2.29034024,0,1.65983586,3.23560606,0,0.96969246,1.24755716,1.16142469,0.08172211,0.23123188
+---------

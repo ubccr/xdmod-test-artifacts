@@ -1,0 +1,11 @@
+title
+"Node Hours: Total: by Resource"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[robertson] Node Hours: Total","[frearson] Node Hours: Total","[mortorq] Node Hours: Total","[pozidriv] Node Hours: Total","[phillips] Node Hours: Total"
+2016,109335.5453,14772.7733,6983.8519,6221.8000,1132.9619
+2017,15424.9164,534.8883,984.0242,701.0794,211.9067
+---------

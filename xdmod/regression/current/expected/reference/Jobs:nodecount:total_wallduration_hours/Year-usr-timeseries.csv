@@ -1,0 +1,11 @@
+title
+"Wall Hours: Total: by Node Count"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[1] Wall Hours: Total","[8] Wall Hours: Total","[2] Wall Hours: Total","[12] Wall Hours: Total","[6] Wall Hours: Total","[4] Wall Hours: Total","[7] Wall Hours: Total","[5] Wall Hours: Total","[28] Wall Hours: Total","[3] Wall Hours: Total","[14] Wall Hours: Total","[20] Wall Hours: Total","[16] Wall Hours: Total","[9] Wall Hours: Total","[24] Wall Hours: Total"
+2016,106851.9472,1767.9244,666.5222,706.5925,427.8881,359.9822,198.2614,131.9739,37.7703,19.4756,20.1617,9.0064,0.2022,0.2606,0.0214
+2017,16498.7056,97.0647,98.7569,0,20.4544,25.2411,0,21.6436,0,16.8553,0,0.0217,0.0731,0,0
+---------
