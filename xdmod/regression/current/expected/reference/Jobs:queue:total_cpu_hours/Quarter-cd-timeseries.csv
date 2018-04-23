@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by Queue"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Quarter,"[white] CPU Hours: Total","[black] CPU Hours: Total","[pikelet] CPU Hours: Total","[roti] CPU Hours: Total","[croutons] CPU Hours: Total","[brown] CPU Hours: Total","[cornbread] CPU Hours: Total","[crumpet] CPU Hours: Total","[brioche] CPU Hours: Total","[nann] CPU Hours: Total","[focaccia] CPU Hours: Total","[bannock] CPU Hours: Total","[panettone] CPU Hours: Total","[chapti] CPU Hours: Total","[potbrood] CPU Hours: Total","[pita] CPU Hours: Total","[pumpernickel] CPU Hours: Total","[barm] CPU Hours: Total"
+"2016 Q4",393227.0725,265350.0081,29927.1728,22393.2603,19188.2219,14195.5947,10835.1317,6944.5964,3151.3547,37.7439,2792.9536,488.7381,982.6722,573.8767,245.4153,192.6086,144.9819,103.2397
+"2017 Q1",45745.9153,9341.9708,4898.5492,0,3190.9314,27.1514,371.6133,1466.4769,575.2839,3135.8494,287.0192,527.8764,0,0,109.9300,45.9625,21.4056,35.2586
+---------

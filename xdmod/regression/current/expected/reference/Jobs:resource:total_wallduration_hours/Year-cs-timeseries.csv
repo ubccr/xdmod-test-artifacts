@@ -1,0 +1,11 @@
+title
+"Wall Hours: Total: by Resource"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[robertson] Wall Hours: Total","[mortorq] Wall Hours: Total","[frearson] Wall Hours: Total","[pozidriv] Wall Hours: Total","[phillips] Wall Hours: Total"
+2016,90576.7319,6983.8519,7246.7925,6016.9067,373.7069
+2017,14493.7111,984.0242,534.8883,701.0794,65.1133
+---------

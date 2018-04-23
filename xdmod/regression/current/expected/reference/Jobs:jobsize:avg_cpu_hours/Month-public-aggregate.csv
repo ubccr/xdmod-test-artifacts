@@ -1,0 +1,11 @@
+title
+"CPU Hours: Per Job: by Job Size"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Month,"[1] CPU Hours: Per Job","[2] CPU Hours: Per Job","[3 - 4] CPU Hours: Per Job","[5 - 8] CPU Hours: Per Job","[9 - 16] CPU Hours: Per Job","[17 - 32] CPU Hours: Per Job","[33 - 64] CPU Hours: Per Job","[65 - 128] CPU Hours: Per Job","[129 - 256] CPU Hours: Per Job","[257 - 512] CPU Hours: Per Job"
+2016-12,12.08503749,15.13530329,6.21601966,2.64633159,10.27663342,334.29719569,449.30497126,2662.11901736,10203.51074074,6348.48666667
+2017-01,10.68346913,35.25861111,50.95076389,1.14434613,6.09791655,32.28885603,75.95746528,250.02989379,4.50666667,0
+---------

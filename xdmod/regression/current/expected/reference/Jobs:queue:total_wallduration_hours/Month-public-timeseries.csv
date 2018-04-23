@@ -1,0 +1,11 @@
+title
+"Wall Hours: Total: by Queue"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Month,"[white] Wall Hours: Total","[black] Wall Hours: Total","[pikelet] Wall Hours: Total","[croutons] Wall Hours: Total","[brioche] Wall Hours: Total","[cornbread] Wall Hours: Total","[roti] Wall Hours: Total","[nann] Wall Hours: Total","[focaccia] Wall Hours: Total","[brown] Wall Hours: Total","[crumpet] Wall Hours: Total","[pita] Wall Hours: Total","[bannock] Wall Hours: Total","[barm] Wall Hours: Total","[panettone] Wall Hours: Total","[chapti] Wall Hours: Total","[pumpernickel] Wall Hours: Total","[potbrood] Wall Hours: Total"
+2016-12,89762.4808,14286.5417,2246.7481,1600.8836,888.4306,776.8925,769.5461,3.1456,232.7461,180.7347,108.8194,113.6931,34.0464,51.6197,49.1336,47.8231,28.9964,15.7086
+2017-01,14484.1117,780.0375,526.8083,387.9903,151.1989,23.2497,0,261.3206,26.1206,27.1514,36.5164,11.4906,35.5917,17.6294,0,0,4.2811,5.3183
+---------
