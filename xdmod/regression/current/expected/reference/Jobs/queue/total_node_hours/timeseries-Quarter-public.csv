@@ -1,0 +1,11 @@
+title
+"Node Hours: Total: by Queue"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Quarter,"[white] Node Hours: Total","[black] Node Hours: Total","[pikelet] Node Hours: Total","[croutons] Node Hours: Total","[crumpet] Node Hours: Total","[brioche] Node Hours: Total","[brown] Node Hours: Total","[cornbread] Node Hours: Total","[roti] Node Hours: Total","[nann] Node Hours: Total","[focaccia] Node Hours: Total","[pita] Node Hours: Total","[bannock] Node Hours: Total","[barm] Node Hours: Total","[panettone] Node Hours: Total","[chapti] Node Hours: Total","[pumpernickel] Node Hours: Total","[potbrood] Node Hours: Total"
+"2016 Q4",108515.7403,21105.3117,2246.7481,1603.0311,868.0744,888.4306,938.2947,922.2233,769.5461,3.1456,232.7461,113.6931,41.1122,51.6197,49.1336,47.8231,28.9964,21.2625
+"2017 Q1",15411.4744,780.0375,526.8083,387.9903,183.3097,151.1989,27.1514,23.2497,0,261.3206,26.1206,11.4906,35.5917,17.6294,0,0,4.2811,9.1608
+---------

@@ -1,0 +1,11 @@
+title
+"Screwdriver Utilization (%)"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[Screwdriver] Screwdriver Utilization (%)"
+2016,0.438737843
+2017,0.039829449
+---------

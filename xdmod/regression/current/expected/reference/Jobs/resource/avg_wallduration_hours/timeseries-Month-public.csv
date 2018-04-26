@@ -1,0 +1,11 @@
+title
+"Wall Hours: Per Job: by Resource"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Month,"[robertson] Wall Hours: Per Job","[pozidriv] Wall Hours: Per Job","[frearson] Wall Hours: Per Job","[mortorq] Wall Hours: Per Job","[phillips] Wall Hours: Per Job"
+2016-12,9.99632843,0.60887540,0.57368528,0.33141233,0.10494438
+2017-01,2.28319331,0.47115554,0.18274285,0.18514095,0.13342896
+---------
