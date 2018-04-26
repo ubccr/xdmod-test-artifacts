@@ -1,0 +1,11 @@
+title
+"CPU Hours: Total: by Node Count"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Quarter,"[1] CPU Hours: Total","[8] CPU Hours: Total","[12] CPU Hours: Total","[6] CPU Hours: Total","[2] CPU Hours: Total","[7] CPU Hours: Total","[4] CPU Hours: Total","[28] CPU Hours: Total","[5] CPU Hours: Total","[20] CPU Hours: Total","[3] CPU Hours: Total","[14] CPU Hours: Total","[16] CPU Hours: Total","[9] CPU Hours: Total","[24] CPU Hours: Total"
+"2016 Q4",369212.8122,166199.7400,126588.8667,29127.0889,20042.2972,22205.2756,13447.0128,12690.8133,7918.4392,1441.0222,701.1217,1129.0533,36.8000,28.1400,6.1600
+"2017 Q1",54777.6581,8617.7089,0,1408.0378,2179.9450,0,877.7783,0,1298.6108,3.4667,606.7883,0,11.2000,0,0
+---------

@@ -1,0 +1,11 @@
+title
+"Node Hours: Per Job: by Node Count"
+parameters
+
+start,end
+2016-12-22,2017-01-01
+---------
+Year,"[28] Node Hours: Per Job","[12] Node Hours: Per Job","[7] Node Hours: Per Job","[14] Node Hours: Per Job","[8] Node Hours: Per Job","[6] Node Hours: Per Job","[5] Node Hours: Per Job","[20] Node Hours: Per Job","[4] Node Hours: Per Job","[3] Node Hours: Per Job","[2] Node Hours: Per Job","[9] Node Hours: Per Job","[1] Node Hours: Per Job","[16] Node Hours: Per Job","[24] Node Hours: Per Job"
+2016,1057.56777778,770.82818182,154.20330247,141.13166667,196.43604552,197.48677350,131.97394444,180.12777778,28.23388889,11.68538889,16.66305556,2.34500000,1.90963912,1.07851852,0.51333333
+2017,0,0,0,0,17.64813763,15.34086806,54.10888889,0.43333333,2.10343750,10.11311111,2.56511544,0,1.00730848,0.58444444,0
+---------
