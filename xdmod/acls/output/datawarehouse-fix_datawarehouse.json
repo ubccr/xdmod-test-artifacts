@@ -50,10 +50,6 @@
           "class": "GroupByJobTime"
         },
         {
-          "name": "jobwaittime",
-          "class": "GroupByJobWaitTime"
-        },
-        {
           "name": "queue",
           "class": "GroupByQueue"
         },

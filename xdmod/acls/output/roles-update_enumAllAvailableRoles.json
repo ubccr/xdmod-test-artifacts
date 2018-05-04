@@ -64,10 +64,6 @@
         },
         {
           "realm": "Jobs",
-          "group_by": "jobwaittime"
-        },
-        {
-          "realm": "Jobs",
           "group_by": "nodecount"
         },
         {
@@ -313,10 +309,6 @@
         {
           "realm": "Jobs",
           "group_by": "jobwalltime"
-        },
-        {
-          "realm": "Jobs",
-          "group_by": "jobwaittime"
         },
         {
           "realm": "Jobs",
