@@ -57,7 +57,7 @@
                 "is_unique": false
             }
         ],
-        "constraints": [
+        "foreign_key_constraints": [
             {
                 "name": "con_col1",
                 "columns": [
